@@ -28,14 +28,16 @@
         <div class="date-header">{{ date }}</div>
         
         <!-- Section-based articles -->
-        <div v-for="section in filteredSections" :key="section.id" class="section-group" v-if="getArticlesForDateAndCategory(date, section.id).length">
-          <h3 v-if="section.label">{{ section.label }}</h3>
-          <div class="grid">
-            <div v-for="item in getArticlesForDateAndCategory(date, section.id)" :key="item.title" class="card">
-              <a :href="item.url" target="_blank">{{ item.title }}</a>
-              <p>{{ item.summary }}</p>
+        <div v-for="section in filteredSections" :key="section.id" class="section-group">
+          <template v-if="getArticlesForDateAndCategory(date, section.id).length">
+            <h3 v-if="section.label">{{ section.label }}</h3>
+            <div class="grid">
+              <div v-for="item in getArticlesForDateAndCategory(date, section.id)" :key="item.title" class="card">
+                <a :href="item.url" target="_blank">{{ item.title }}</a>
+                <p>{{ item.summary }}</p>
+              </div>
             </div>
-          </div>
+          </template>
         </div>
       </div>
 
