@@ -24,14 +24,14 @@
 
     <main v-if="newsData">
       <!-- Date Groups -->
-      <div v-for="(group, date) in groupedNews" :key="date" class="edition">
+      <div v-for="date in sortedDates" :key="date" class="edition">
         <div class="date-header">{{ date }}</div>
         
         <!-- Section-based articles -->
-        <div v-for="section in filteredSections" :key="section.id" class="section-group" v-if="group[section.id]?.length">
-          <h3>{{ section.label }}</h3>
+        <div v-for="section in filteredSections" :key="section.id" class="section-group" v-if="getArticlesForDateAndCategory(date, section.id).length">
+          <h3 v-if="section.label">{{ section.label }}</h3>
           <div class="grid">
-            <div v-for="item in group[section.id]" :key="item.title" class="card">
+            <div v-for="item in getArticlesForDateAndCategory(date, section.id)" :key="item.title" class="card">
               <a :href="item.url" target="_blank">{{ item.title }}</a>
               <p>{{ item.summary }}</p>
             </div>
@@ -75,33 +75,27 @@ const filteredSections = computed(() => {
   return categories.filter(c => c.id === activeCategory.value);
 });
 
-const groupedNews = computed(() => {
-  if (!newsData.value) return {};
-  
-  const groups = {};
-  // Filter for last X days (or simply the first X editions since they are usually sorted)
-  // We take the first 'visibleDays' unique dates from the start of the array
-  const uniqueDates = [...new Set(newsData.value.map(e => e.date))].slice(0, visibleDays.value);
-  
+const sortedDates = computed(() => {
+  if (!newsData.value) return [];
+  const allDates = [...new Set(newsData.value.map(e => e.date))];
+  return allDates.slice(0, visibleDays.value);
+});
+
+function getArticlesForDateAndCategory(date, catId) {
+  if (!newsData.value) return [];
+  const articles = [];
   newsData.value.forEach(edition => {
-    if (uniqueDates.includes(edition.date)) {
-      if (!groups[edition.date]) groups[edition.date] = {};
-      
-      categories.forEach(cat => {
-        if (edition[cat.id]) {
-          groups[edition.date][cat.id] = (groups[edition.date][cat.id] || []).concat(edition[cat.id]);
-        }
-      });
+    if (edition.date === date && edition[catId]) {
+      articles.push(...edition[catId]);
     }
   });
-  
-  return groups;
-});
+  return articles;
+}
 
 const hasMore = computed(() => {
   if (!newsData.value) return false;
-  const uniqueDates = [...new Set(newsData.value.map(e => e.date))];
-  return visibleDays.value < uniqueDates.length;
+  const allDates = [...new Set(newsData.value.map(e => e.date))];
+  return visibleDays.value < allDates.length;
 });
 
 function filterByCategory(catId) {
@@ -110,7 +104,6 @@ function filterByCategory(catId) {
 
 async function loadMore() {
   loadingMore.value = true;
-  // Simulate a short delay for better UX
   await new Promise(resolve => setTimeout(resolve, 500));
   visibleDays.value += 3;
   loadingMore.value = false;
