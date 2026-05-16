@@ -11,7 +11,7 @@
           v-for="pub in publications" 
           :key="pub.id" 
           class="pub-card" 
-          @click="selectPublication(pub.id)"
+          @click="selectedPublication = pub.id"
         >
           <div class="pub-icon">📰</div>
           <div class="pub-label">{{ pub.label }}</div>
