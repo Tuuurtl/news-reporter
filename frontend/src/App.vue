@@ -71,7 +71,8 @@ const publications = computed(() => {
   const pubMap = {};
   newsData.value.forEach(item => {
     if (item.sender) {
-      pubMap[item.sender] = (pubMap[item.sender] || 0) + 1;
+      const count = item.articles ? item.articles.length : 0;
+      pubMap[item.sender] = (pubMap[item.sender] || 0) + count;
     }
   });
   return Object.entries(pubMap).map(([id, count]) => ({
