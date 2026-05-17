@@ -31,12 +31,21 @@
       </nav>
 
       <div v-if="filteredNews.length" class="news-list">
-        <div v-for="item in filteredNews" :key="item.id" class="news-card">
-          <div class="card-header">
-            <span class="date">{{ formatDate(item.email_date) }}</span>
+        <div v-for="item in filteredNews" :key="item.id" class="news-date-group">
+          <div class="date-separator">
+            {{ formatDate(item.email_date) }}
           </div>
-          <div class="card-content">
-            {{ item.content }}
+          <div class="articles-grid">
+            <a 
+              v-for="article in item.articles" 
+              :key="article.title" 
+              :href="article.link" 
+              target="_blank"
+              class="article-card"
+            >
+              <div class="article-title">{{ article.title }}</div>
+              <div class="article-desc">{{ article.description }}</div>
+            </a>
           </div>
         </div>
       </div>
@@ -183,34 +192,55 @@ header h1 {
   font-size: 1.4rem;
   font-weight: bold;
 }
-.news-list {
-  display: flex;
-  flex-direction: column;
+
+/* New Grid Layout Styles */
+.news-date-group {
+  margin-bottom: 3rem;
+}
+.date-separator {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #6c757d;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #dee2e6;
+}
+.articles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 1.5rem;
 }
-.news-card {
+.article-card {
   background: white;
   padding: 1.5rem;
   border-radius: 12px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.2s ease;
   border: 1px solid #eee;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
-.card-header {
-  margin-bottom: 1rem;
-  border-bottom: 1px solid #f0f0f0;
-  padding-bottom: 0.5rem;
+.article-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+  border-color: #007bff;
 }
-.date {
-  font-size: 0.85rem;
-  color: #6c757d;
-  font-weight: 500;
+.article-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+  color: #1a1a1a;
+  line-height: 1.3;
 }
-.card-content {
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #333;
-  white-space: pre-wrap;
+.article-desc {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #495057;
+  flex-grow: 1;
 }
+
 .error {
   color: #d9534f;
   text-align: center;
