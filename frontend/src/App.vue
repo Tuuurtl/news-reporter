@@ -28,6 +28,14 @@
       <nav class="top-nav">
         <button @click="selectedPublication = null" class="back-btn">← Back</button>
         <div class="current-pub">{{ selectedPublicationLabel }}</div>
+        <div class="search-container">
+          <input 
+            v-model="searchQuery" 
+            type="text" 
+            placeholder="Search articles..." 
+            class="search-input"
+          />
+        </div>
       </nav>
 
       <div v-if="filteredNews.length" class="news-list">
@@ -50,7 +58,7 @@
         </div>
       </div>
       <div v-else class="empty-state">
-        No articles found for this publication.
+        No articles found for this publication or search query.
       </div>
     </div>
 
@@ -65,6 +73,7 @@ import { ref, onMounted, computed } from 'vue';
 const newsData = ref(null);
 const error = ref(null);
 const selectedPublication = ref(null);
+const searchQuery = ref('');
 
 const publications = computed(() => {
   if (!newsData.value) return [];
@@ -88,8 +97,21 @@ const selectedPublicationLabel = computed(() => {
 
 const filteredNews = computed(() => {
   if (!newsData.value) return [];
+  
+  const query = searchQuery.value.toLowerCase().trim();
+  
   return newsData.value
     .filter(item => item.sender === selectedPublication.value)
+    .map(item => ({
+      ...item,
+      articles: query 
+        ? item.articles.filter(art => 
+            art.title.toLowerCase().includes(query) || 
+            art.description.toLowerCase().includes(query)
+          )
+        : item.articles
+    }))
+    .filter(item => item.articles.length > 0)
     .sort((a, b) => new Date(b.email_date) - new Date(a.email_date));
 });
 
@@ -192,6 +214,22 @@ header h1 {
 .current-pub {
   font-size: 1.4rem;
   font-weight: bold;
+}
+.search-container {
+  margin-left: auto;
+}
+.search-input {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  width: 200px;
+  transition: border-color 0.2s;
+}
+.search-input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0,123,255,0.25);
 }
 
 /* New Grid Layout Styles */
