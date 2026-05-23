@@ -8,6 +8,16 @@
     "processed": 0,
     "articles": [
       {
+        "title": "CURSOR HITS $3 BILLION ANNUAL SALES RATE AHEAD OF SPACEX DEAL",
+        "description": "Cursor's annualized revenue hit $3 billion in late April. The company",
+        "link": "https://links.tldrnewsletter.com/TgMrfv"
+      },
+      {
+        "title": "MANUS WEIGHS RAISING $1 BILLION TO UNWIND META TAKEOVER",
+        "description": "Manus has been told to unwind its acquisition by Meta by China's",
+        "link": "https://links.tldrnewsletter.com/qttqkT"
+      },
+      {
         "title": "INVESTMENT",
         "description": "Microsoft plans to supply its Maia AI chips to Anthropic, which",
         "link": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html?utm_source=tldrai"
@@ -16,6 +26,11 @@
         "title": "LESSONS LEARNED FROM BUILDING CLOUD AGENTS",
         "description": "Cursor described lessons from building cloud agents, emphasizing",
         "link": "https://cursor.com/blog/cloud-agent-lessons?utm_source=tldrai"
+      },
+      {
+        "title": "AI'S PLUMMETING PRICES ARE A SOFTWARE STORY, NOT A HARDWARE ONE",
+        "description": "Local, open-weight models running on older commodity hardware are",
+        "link": "https://weightythoughts.com/p/ais-plummeting-prices-are-a-software?utm_source=tldrai"
       },
       {
         "title": "FRONTIER LABS DON'T USE MOST AI COMPUTE (YET)",
@@ -38,9 +53,29 @@
         "link": "https://links.tldrnewsletter.com/ymQq2q"
       },
       {
+        "title": "OPENAI'S Q1 REVENUE WAS $5.7 BILLION, BEATING ANTHROPIC",
+        "description": "OpenAI reported $5.7 billion in Q1 revenue, surpassing Anthropic. The",
+        "link": "https://sherwood.news/tech/report-openais-q1-revenue-was-5-7-billion-beating-anthropic/?utm_source=tldrai"
+      },
+      {
+        "title": "COPILOT CLI — A MOVE LIKELY DRIVEN BY FINANCIAL MOTIVES",
+        "description": "Canceling Claude Code licenses could help Microsoft cut its",
+        "link": "https://www.windowscentral.com/microsoft/microsoft-cancels-claude-code-licenses-shifting-developers-to-github-copilot-cli-a-move-likely-driven-by-financial-motives?utm_source=tldrai"
+      },
+      {
+        "title": "ANTHROPIC'S NEW CONSULTING VENTURE MAKES ITS FIRST ACQUISITION",
+        "description": "The yet-unnamed venture has picked Fractional AI as its operational",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-consulting-venture-makes-first-120000326.html?utm_source=tldrai"
+      },
+      {
         "title": "STATE OF AI 2026",
         "description": "The 2026 edition of the State of Web Dev AI studies the impact of AI",
         "link": "https://2026.stateofai.dev/en-US?utm_source=tldrai"
+      },
+      {
+        "title": "GEN Z IS NOT BOOING AI. IT IS BOOING ITS OWN JOB MARKET",
+        "description": "The unemployment-rate gap between entry-level workers and experienced",
+        "link": "https://thenextweb.com/news/gen-z-commencement-boos-ai-redundancy-cohort?utm_source=tldrai"
       }
     ]
   },
@@ -63,9 +98,19 @@
         "link": "https://siliconangle.com/2026/05/21/zscaler-acquires-symmetry-systems-extend-ai-agent-security-capabilities/?utm_source=tldrit"
       },
       {
+        "title": "CISCO'S NEW CERTS ARE A WAKE-UP CALL FOR AI-ERA NETWORK ENGINEERS",
+        "description": "Cisco is updating core certification tracks to add AI, automation,",
+        "link": "https://www.networkworld.com/article/4175910/ciscos-new-certs-are-a-wake-up-call-for-ai-era-network-engineers.html?utm_source=tldrit"
+      },
+      {
         "title": "THE INVISIBLE FUTURE OF AI: AMBIENT INTELLIGENCE",
         "description": "AI is shifting from something you actively use to something that",
         "link": "https://www.salesforce.com/blog/ambient-intelligence/?utm_source=tldrit"
+      },
+      {
+        "title": "MFA VERIFIES WHO LOGGED IN. IT HAS NO IDEA WHAT THEY DO NEXT",
+        "description": "The piece argues that MFA solves authentication at login, but does",
+        "link": "https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next?utm_source=tldrit"
       },
       {
         "title": "\"LUMADA 3.0\" THROUGH FRONTIER AI",
@@ -83,9 +128,19 @@
         "link": "https://www.networkworld.com/article/4174188/ai-reshapes-cybersecurity-workforce-priorities-as-it-teams-brace-for-new-risks.html?utm_source=tldrit"
       },
       {
+        "title": "TERRAFORM RBAC: HOW TO IMPLEMENT ROLE-BASED ACCESS CONTROL",
+        "description": "The piece breaks down how teams can apply role-based access control",
+        "link": "https://spacelift.io/blog/terraform-rbac?utm_source=tldrit"
+      },
+      {
         "title": "HIGH PRICE TAG",
         "description": "Microsoft refreshed its Surface for Business lineup with newer Intel",
         "link": "https://www.computerworld.com/article/4175648/microsoft-refreshes-surface-line-with-biz-friendly-features-and-a-high-price-tag.html?utm_source=tldrit"
+      },
+      {
+        "title": "THE ARCHITECTURAL REASON 1PASSWORD CAN'T READ YOUR VAULT DATA",
+        "description": "1Password explains its security model for end-to-end encryption,",
+        "link": "https://1password.com/blog/the-architectural-reason-1password-cant-read-your-vault-data?utm_source=tldrit"
       },
       {
         "title": "GOOGLE TO UNIFY AI CODING TOOLS UNDER ANTIGRAVITY",
@@ -108,9 +163,19 @@
         "link": "https://www.figma.com/blog/the-figma-agent-is-here/?utm_source=tldrdesign"
       },
       {
+        "title": "GOOGLE POMELLI CAN NOW BUILD YOUR ENTIRE BRAND FROM SCRATCH",
+        "description": "Google Pomelli, an AI marketing tool from Google Labs built with",
+        "link": "https://www.digitaltrends.com/computing/google-pomelli-can-now-build-your-entire-brand-from-scratch/?utm_source=tldrdesign"
+      },
+      {
         "title": "EVERYTHING CHATTY",
         "description": "Both Adobe and Canva are integrating with Google Gemini, allowing",
         "link": "https://www.digitaltrends.com/computing/canva-and-adobe-are-coming-to-gemini-and-they-want-to-make-everything-chatty/?utm_source=tldrdesign"
+      },
+      {
+        "title": "SMALL BY DESIGN: THE STRENGTH OF LEAN DESIGN-SYSTEM TEAMS",
+        "description": "Small design-system teams of 2-5 people are the norm across all",
+        "link": "https://www.nngroup.com/articles/lean-design-system-teams/?utm_source=tldrdesign"
       },
       {
         "title": "THE WAITING PROBLEM IN AI PRODUCTS",
@@ -128,9 +193,19 @@
         "link": "https://blog.logrocket.com/ux-design/design-engineering-then-vs-now/?utm_source=tldrdesign"
       },
       {
+        "title": "HOW KIT STUDIO DREW ON ST. JOHN'S WALLS FOR AN ANTI-BLAND REBRAND",
+        "description": "Modern branding has become increasingly bland and simplified due to",
+        "link": "https://links.tldrnewsletter.com/FelSZk"
+      },
+      {
         "title": "CANVA USES HANDCRAFTED ANIMATION TO CHALLENGE POLISHED DESIGN CULTURE",
         "description": "Canva has launched a handcrafted stop-motion ad featuring a pigeon",
         "link": "https://www.creativebloq.com/art/animation/canva-uses-handcrafted-animation-to-challenge-polished-design-culture?utm_source=tldrdesign"
+      },
+      {
+        "title": "CLAUDE DESIGN VS. ADOBE CREATIVE CLOUD PRO: 2026 COMPARISON",
+        "description": "Rather than direct substitutes, Claude Design and Adobe Creative",
+        "link": "https://weandthecolor.com/claude-design-vs-adobe-creative-cloud-pro-the-definitive-2026-comparison-every-creative-needs-to-read/209651?utm_source=tldrdesign"
       },
       {
         "title": "ZEN AND THE ART OF ILLUSTRATION WITH LIVELYHOOD",
@@ -148,9 +223,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "THE PULSE: FORWARD-DEPLOYED ENGINEERING HEATS UP AGAIN",
+        "description": "Demand for Forward Deployed Engineers (FDEs) is growing at major",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering-887?utm_source=tldrdev"
+      },
+      {
         "title": "USE",
         "description": "Pinterest redesigned its machine learning data platform to use a",
         "link": "https://links.tldrnewsletter.com/MiBf5s"
+      },
+      {
+        "title": "INTRODUCING NOVA, OUR INTERNAL PLATFORM FOR CODING AGENTS",
+        "description": "Nova is an internal cloud platform at Dropbox designed to run",
+        "link": "https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents?utm_source=tldrdev"
       },
       {
         "title": "GOOGLE?)",
@@ -161,6 +246,11 @@
         "title": "WAS MY $48K GPU SERVER WORTH IT?",
         "description": "Moving into independent research, this dev built a custom $48,000 GPU",
         "link": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/?utm_source=tldrdev"
+      },
+      {
+        "title": "UV IS FANTASTIC, BUT ITS PACKAGE MANAGEMENT UX IS A MESS",
+        "description": "While `uv` is celebrated for its speed and ability to replace",
+        "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/?utm_source=tldrdev"
       },
       {
         "title": "NEW CAPABILITIES, TOOLS, AND FEATURES IN CHROME",
@@ -176,6 +266,11 @@
         "title": "GOOGLE'S ANTIGRAVITY BAIT AND SWITCH",
         "description": "Google's recent Antigravity 2.0 update at I/O 2026 automatically",
         "link": "https://www.0xsid.com/blog/antigravity-bait-n-switch?utm_source=tldrdev"
+      },
+      {
+        "title": "STOP WAITING ON JSON: STREAM STRUCTURED OUTPUT WITH ONE SCHEMA",
+        "description": "TanStack AI now allows developers to stream structured LLM outputs",
+        "link": "https://tanstack.com/blog/streaming-structured-output?utm_source=tldrdev"
       },
       {
         "title": "THIS BLOG RAN ON UBUNTU 16.04 FOR 10 YEARS. I MIGRATED IT TO FREEBSD",
@@ -198,6 +293,11 @@
     "processed": 0,
     "articles": [
       {
+        "title": "NOW IN PUBLIC PREVIEW: STORE TERRAFORM STATE IN PULUMI CLOUD",
+        "description": "Pulumi Cloud can now act as a Terraform state backend, enabling teams",
+        "link": "https://www.pulumi.com/blog/terraform-state-backend-pulumi-cloud/?utm_source=tldrdevops"
+      },
+      {
         "title": "BUILDING SELF-EXTENDING CLI TOOLS WITH STRANDS AGENT",
         "description": "CLI Creator is an open-source tool that uses Amazon Bedrock and the",
         "link": "https://aws.amazon.com/blogs/devops/building-self-extending-cli-tools-with-aws-strands/?utm_source=tldrdevops"
@@ -206,6 +306,11 @@
         "title": "HOW WE BUILT DIGITALOCEAN INFERENCE ROUTER",
         "description": "Inference Router is an infrastructure-level tool from DigitalOcean",
         "link": "https://www.digitalocean.com/blog/inference-router-architecture?utm_source=tldrdevops"
+      },
+      {
+        "title": "WHAT KUBECTL DEBUG DOESN'T TELL YOU: THE SILENT EVIDENCE GAP",
+        "description": "Kubernetes doesn't retain debug session data like exit codes or",
+        "link": "https://www.cncf.io/blog/2026/05/18/what-kubectl-debug-doesnt-tell-you-the-silent-evidence-gap/?utm_source=tldrdevops"
       },
       {
         "title": "TWELVE WAYS TO BE WRONG ABOUT AI-ASSISTED CODING",
@@ -231,6 +336,11 @@
         "title": "ANNOUNCING ETCD 3.7.0-BETA.0",
         "description": "etcd v3.7.0-beta.0 introduces RangeStream, which allows applications",
         "link": "https://kubernetes.io/blog/2026/05/20/etcd-370-beta/?utm_source=tldrdevops"
+      },
+      {
+        "title": "INTRODUCING PREMPTI: POLICY AND VISIBILITY FOR AI CODING AGENTS",
+        "description": "Prempti is an experimental security tool that monitors and controls",
+        "link": "https://www.cncf.io/blog/2026/05/20/introducing-prempti-policy-and-visibility-for-ai-coding-agents/?utm_source=tldrdevops"
       }
     ]
   },
@@ -242,6 +352,11 @@
     "received_at": "2026-05-23 09:07:49",
     "processed": 0,
     "articles": [
+      {
+        "title": "GOOGLE PUSHES AI-GENERATED ADS FURTHER INTO SEARCH RESULTS",
+        "description": "Google has started testing several new ad formats in both standard",
+        "link": "https://links.tldrnewsletter.com/OXtkWD"
+      },
       {
         "title": "SPACEX POSTPONES LAUNCH OF NEWLY REDESIGNED STARSHIP",
         "description": "Starship's launch has been delayed due to a malfunctioning part in",
@@ -263,6 +378,16 @@
         "link": "https://developer.chrome.com/blog/extensions-io-2026?hl=en&utm_source=tldrnewsletter"
       },
       {
+        "title": "CHEAP CODE MEANS FORMAL VERIFICATION IS REASONABLE NOW",
+        "description": "One way to make sure that agents complete tasks correctly is to make",
+        "link": "https://antfly.io/blog/agent-formal-verification?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "HOW SPACEX'S IPO CEMENTS ELON MUSK'S GRIP ON THE COMPANY",
+        "description": "SpaceX has adopted a corporate governance policy that will erode",
+        "link": "https://links.tldrnewsletter.com/ik1S5M"
+      },
+      {
         "title": "TODAY CLICKUP REDUCED HEADCOUNT BY 22%",
         "description": "ClickUp is in the strongest position it's ever been in, but the",
         "link": "https://threadreaderapp.com/thread/2057522382315929802.html?utm_source=tldrnewsletter"
@@ -276,6 +401,11 @@
         "title": "AFTER AUTOMATION",
         "description": "AI progress creates more work for humans, not less.",
         "link": "https://every.to/p/after-automation?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "YOU CAN'T AFFORD TO LEAD AGENTIC ENGINEERING FROM THE SIDELINES",
+        "description": "Leaders need first-hand experience with the technology before they",
+        "link": "https://blog.kilo.ai/p/you-cant-afford-to-lead-agentic-engineering?utm_source=tldrnewsletter"
       },
       {
         "title": "IT'S TIME TO WALK",
@@ -297,6 +427,11 @@
     "received_at": "2026-05-23 09:07:49",
     "processed": 0,
     "articles": [
+      {
+        "title": "ANTHROPIC TO PAY SPACEX NEARLY $45 BILLION FOR COMPUTING DEAL",
+        "description": "Anthropic has agreed to pay SpaceX nearly $45 billion over the next",
+        "link": "https://links.tldrnewsletter.com/q5YG3r"
+      },
       {
         "title": "OPENAI REPORTEDLY MOVES TOWARD IPO",
         "description": "OpenAI is reportedly preparing for a potential IPO as early as",
@@ -323,6 +458,11 @@
         "link": "https://arxiv.org/abs/2605.19407?utm_source=tldrai"
       },
       {
+        "title": "INTRODUCING AGENT EXECUTOR, GOOGLE'S DISTRIBUTED AGENT RUNTIME",
+        "description": "Google Agent Executor is an open-source runtime standard for reliable",
+        "link": "https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/?utm_source=tldrai"
+      },
+      {
         "title": "LITEFRAME SCALES VIDEO LLM EFFICIENCY",
         "description": "LiteFrame proposed a lightweight video encoder designed to improve",
         "link": "https://jjihwan.github.io/projects/LiteFrame/?utm_source=tldrai"
@@ -346,6 +486,16 @@
         "title": "THE UNSUSTAINABLE SUBSIDY",
         "description": "AI pricing is increasing as cash is tight and margins matter.",
         "link": "https://tomtunguz.com/ai-model-inflation/?utm_source=tldrai"
+      },
+      {
+        "title": "BETTER EXPERIMENTS WITH LLM EVALS — A FUNNEL, NOT A FORK",
+        "description": "LLM evals paired with online experiments create a feedback loop that",
+        "link": "https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork?utm_source=tldrai"
+      },
+      {
+        "title": "ALIBABA UNVEILS NEW AI CHIP IN PUSH FOR DOMESTIC ALTERNATIVES",
+        "description": "Alibaba's new chip, the Zhenwu M890, is well-suited to handle the",
+        "link": "https://ca.finance.yahoo.com/news/alibaba-unveils-ai-chip-push-050035417.html?utm_source=tldrai"
       }
     ]
   },
@@ -398,6 +548,11 @@
         "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/?utm_source=tldrit"
       },
       {
+        "title": "AI CAN WRITE CODE, BUT THE CIO STILL OWNS THE OPERATING MODEL",
+        "description": "AI may accelerate software development, but CIOs still own the",
+        "link": "https://www.cio.com/article/4173269/ai-can-write-code-but-the-cios-still-owns-the-operating-model.html?utm_source=tldrit"
+      },
+      {
         "title": "OPEN SOURCE PACKAGES HIT BY SUPPLY-CHAIN ATTACK",
         "description": "Hackers compromised dozens of popular open-source packages in an",
         "link": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack?utm_source=tldrit"
@@ -438,9 +593,19 @@
         "link": "https://ixdf.org/literature/article/activity-focused-design?utm_source=tldrdesign"
       },
       {
+        "title": "FROM FASTER PENCIL TO AI EXPERIENCE ARCHITECT: A DESIGNER'S PATH",
+        "description": "AI is pushing designers beyond simply creating screens and assets",
+        "link": "https://links.tldrnewsletter.com/lExk5b"
+      },
+      {
         "title": "GOOGLE'S NEW APP ICONS WERE DESPERATELY NEEDED",
         "description": "Google is rolling out redesigned Workspace app icons after years of",
         "link": "https://www.creativebloq.com/design/logos-icons/googles-new-app-icons-were-desperately-needed?utm_source=tldrdesign"
+      },
+      {
+        "title": "WHY MOTION DESIGN IS DEFINING MODERN DIGITAL COMMUNICATION",
+        "description": "Motion design has become the driving force behind modern digital",
+        "link": "https://www.zilliondesigns.com/blog/motion-design-in-digital-communication/?utm_source=tldrdesign"
       },
       {
         "title": "INDIVIDUAL, AND IMPERIAL COLLEGE LONDON",
@@ -461,6 +626,11 @@
         "title": "DEBUNKED",
         "description": "Common myths falsely claim that graphic design has no rules, requires",
         "link": "https://designbeep.com/2026/05/12/which-of-the-following-is-not-true-about-graphic-design/?utm_source=tldrdesign"
+      },
+      {
+        "title": "WIKIPEDIA'S MOST UNDERRATED LOGO FINALLY GETS THE LOVE IT DESERVES",
+        "description": "To celebrate Wikipedia's 25th anniversary, Wikimedia embraced fan",
+        "link": "https://www.creativebloq.com/design/branding/wikipedias-most-underrated-logo-finally-gets-the-love-it-deserves?utm_source=tldrdesign"
       }
     ]
   },
@@ -573,6 +743,11 @@
         "link": "https://links.tldrnewsletter.com/cSnxNn"
       },
       {
+        "title": "HOW I CHOOSE WHICH CLOUDFLARE EMPLOYEES TO REPLACE WITH AI",
+        "description": "Cloudflare laid off more than 20% of its workforce two weeks ago,",
+        "link": "https://links.tldrnewsletter.com/ZW9rSf"
+      },
+      {
         "title": "‘NOTHING TO DO WITH ROBOTICS'",
         "description": "Jeff Bezos' startup, Project Prometheus, is developing an artificial",
         "link": "https://links.tldrnewsletter.com/ausJUt"
@@ -628,14 +803,29 @@
         "link": "https://links.tldrnewsletter.com/YxD1OG"
       },
       {
+        "title": "MONDAYDB 3 – SOLVING HTAP FOR A TRILLION-TABLE SYSTEM",
+        "description": "mondayDB 3 is an HTAP system designed to handle over a trillion",
+        "link": "https://engineering.monday.com/mondaydb-3-solving-htap-for-a-trillion-table-system/?utm_source=tldrdata"
+      },
+      {
         "title": "RETURNING TO LIFE!",
         "description": "AI is both genuinely empowering for data science. It makes",
         "link": "https://tidydesign.substack.com/p/returning-to-life?utm_source=tldrdata"
       },
       {
+        "title": "BETTER EXPERIMENTS WITH LLM EVALS — A FUNNEL, NOT A FORK",
+        "description": "Treat LLM evals and online A/B experiments as a funnel by using LLM",
+        "link": "https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork?utm_source=tldrdata"
+      },
+      {
         "title": "WHAT'S EASY NOW? WHAT'S HARD NOW?",
         "description": "The long-term capabilities of coding agents will be determined more",
         "link": "https://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html?utm_source=tldrdata"
+      },
+      {
+        "title": "THE PIPELINE TAX IS BREAKING ENTERPRISE AI AT AGENT SCALE",
+        "description": "Enterprise AI is hitting a “pipeline tax”: moving data through",
+        "link": "https://www.ciodive.com/spons/the-pipeline-tax-is-breaking-enterprise-ai-at-agent-scale/820200/?utm_source=tldrdata"
       },
       {
         "title": "MONITORING CORTEX AGENT PERFORMANCE WITH TRACE DATA",
@@ -683,14 +873,29 @@
         "link": "https://links.tldrnewsletter.com/xjaD0w"
       },
       {
+        "title": "GOOGLE DETAILED THE SHIFT TOWARD AGENTIC GEMINI PRODUCTS",
+        "description": "At I/O 2026, Google outlined how Gemini models were being integrated",
+        "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/?utm_source=tldrai"
+      },
+      {
         "title": "MODEL HALF-LIFE",
         "description": "Model half-life - the idea that model releases will keep getting",
         "link": "https://aifoc.us/model-half-life/?utm_source=tldrai"
       },
       {
+        "title": "USING CLAUDE CODE: THE UNREASONABLE EFFECTIVENESS OF HTML",
+        "description": "HTML's richness allows it to convey complex information more",
+        "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html?utm_source=tldrai"
+      },
+      {
         "title": "OLMOEARTH V1.1: A MORE EFFICIENT FAMILY OF MODELS",
         "description": "OlmoEarth v1.1, a new model family, reduces compute costs by up to 3X",
         "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1?utm_source=tldrai"
+      },
+      {
+        "title": "A SINGLE PANE OF GLASS FOR MANAGING ALL OF YOUR CLOUD AGENTS",
+        "description": "Oz is a multi-harness control plane for cloud agents, supporting",
+        "link": "https://www.warp.dev/blog/multi-harness-cloud-agent-orchestration?utm_source=tldrai"
       },
       {
         "title": "INTRODUCING THE ETTIN RERANKER FAMILY",
@@ -768,6 +973,11 @@
         "link": "https://www.onlycfo.io/p/building-ai-agents-in-accounting?utm_source=tldrit"
       },
       {
+        "title": "WHAT MARKETING CAN LEARN FROM IT ABOUT RUNNING COMPLEX TECHNOLOGY",
+        "description": "As marketing stacks grow more complex, teams need to borrow more from",
+        "link": "https://martech.org/what-marketing-can-learn-from-it-about-running-complex-technology/?utm_source=tldrit"
+      },
+      {
         "title": "TANSTACK + MORE NPM PACKAGES COMPROMISED",
         "description": "TeamPCP's \"Mini Shai-Hulud\" supply chain attack has poisoned major",
         "link": "https://www.wiz.io/blog/mini-shai-hulud-strikes-again-tanstack-more-npm-packages-compromised?utm_source=tldrit"
@@ -793,6 +1003,11 @@
         "link": "https://9to5mac.com/2026/05/18/apple-unveils-30-apple-design-award-app-finalists/?utm_source=tldrdesign"
       },
       {
+        "title": "GOOGLE IS ROLLING OUT ITS DEDESIGNED WORKSPACE APP ICONS",
+        "description": "Google is rolling out redesigned Workspace app icons featuring soft",
+        "link": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign?utm_source=tldrdesign"
+      },
+      {
         "title": "UPDATES",
         "description": "Apple has announced several new AI-powered accessibility features",
         "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/?utm_source=tldrdesign"
@@ -816,6 +1031,16 @@
         "title": "CURTAIN IN DESIGN",
         "description": "AI should work invisibly behind the scenes, handling mundane tasks",
         "link": "https://thenextweb.com/news/rosebernard-studio-robert-polacek-ai-behind-curtain-design?utm_source=tldrdesign"
+      },
+      {
+        "title": "THE FUTURE OF BMW DESIGN: A CONVERSATION WITH MAX MISSONI",
+        "description": "Max Missoni, BMW VP of mid-size and large vehicles, discusses the",
+        "link": "https://coolhunting.com/design/the-future-of-bmw-design-a-conversation-with-max-missoni/?utm_source=tldrdesign"
+      },
+      {
+        "title": "HOW MOBILE APPS ARE RESHAPING SCREENING FOR COGNITIVE DECLINE",
+        "description": "Digital cognitive assessment apps aim to detect early signs of",
+        "link": "https://links.tldrnewsletter.com/ev7ctm"
       },
       {
         "title": "CAN TELL A STORY ABOUT ANYTHING",
@@ -873,6 +1098,11 @@
         "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/?utm_source=tldrdev"
       },
       {
+        "title": "ANTHROPIC IS PREPARING FOR IPO AND WE SHOULD BE WORRIED",
+        "description": "Anthropic seems to be getting ready for an IPO by making its access",
+        "link": "https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/?utm_source=tldrdev"
+      },
+      {
         "title": "ECOSYSTEM",
         "description": "To make AI media transparent, we're using a multi-layered strategy",
         "link": "https://links.tldrnewsletter.com/5OFNlA"
@@ -886,6 +1116,11 @@
         "title": "INTELLIGENCE",
         "description": "Apple has unveiled a series of accessibility updates powered by Apple",
         "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/?utm_source=tldrdev"
+      },
+      {
+        "title": "AN IMPORTANT UPDATE: TRANSITIONING GEMINI CLI TO ANTIGRAVITY CLI",
+        "description": "Google is transitioning Gemini CLI to the unified, agent-first",
+        "link": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/?utm_source=tldrdev"
       }
     ]
   },
@@ -911,6 +1146,16 @@
         "title": "ANNOUNCING CLAUDE MANAGED AGENTS ON CLOUDFLARE",
         "description": "Cloudflare and Anthropic integrated Claude Managed Agents with",
         "link": "https://blog.cloudflare.com/claude-managed-agents/?utm_source=tldrdevops"
+      },
+      {
+        "title": "BACK UP AND RESTORE YOUR AMAZON EKS CLUSTER RESOURCES USING VELERO",
+        "description": "AWS detailed how to use Velero on Amazon EKS to back up and restore",
+        "link": "https://aws.amazon.com/blogs/containers/back-up-and-restore-your-amazon-eks-cluster-resources-using-velero/?utm_source=tldrdevops"
+      },
+      {
+        "title": "AI IS WRITING MORE CODE. YOUR CI PIPELINE CAN'T KEEP UP",
+        "description": "Rising AI-driven development activity is inflating CI costs as every",
+        "link": "https://www.cloudbees.com/blog/ai-is-writing-more-code-your-ci-pipeline-cant-keep-up?utm_source=tldrdevops"
       },
       {
         "title": "AUTOMATING CONFIDENTIAL CONTAINERS (COCO) INFRASTRUCTURE WITH KYVERNO",
@@ -953,6 +1198,16 @@
         "link": "https://9to5google.com/2026/05/19/google-io-2026-news/?utm_source=tldrnewsletter"
       },
       {
+        "title": "SPACEX IS PLANNING TO BUY STARTUP CURSOR 30 DAYS AFTER IPO",
+        "description": "SpaceX is expected to file for its IPO as soon as today and list its",
+        "link": "https://links.tldrnewsletter.com/VO6WHi"
+      },
+      {
+        "title": "TESLA'S NEWEST ELECTRIC VEHICLE COULD JOLT THE TRUCKING INDUSTRY",
+        "description": "Early reviews of the Tesla Semi suggest it could be a much-needed hit",
+        "link": "https://links.tldrnewsletter.com/GPCNG9"
+      },
+      {
         "title": "TWO AI-BASED SCIENCE ASSISTANTS SUCCEED WITH DRUG-RETARGETING TASKS",
         "description": "Nature recently released two papers that describe AI systems intended",
         "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/?utm_source=tldrnewsletter"
@@ -963,9 +1218,19 @@
         "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/?utm_source=tldrnewsletter"
       },
       {
+        "title": "ANDREJ KARPATHY, TESLA ALUM AND OPENAI CO-FOUNDER, JOINS ANTHROPIC",
+        "description": "OpenAI co-founder and former Tesla executive Andrej Karpathy has",
+        "link": "https://links.tldrnewsletter.com/GXew6R"
+      },
+      {
         "title": "SPECULATE ON ANTHROPIC, OPENAI",
         "description": "Polymarket is launching prediction markets tied to private company",
         "link": "https://www.cnbc.com/2026/05/19/polymarket-launches-private-company-trading-so-investors-can-speculate-on-anthropic-openai.html?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "OPENAI HAS THE SMARTER MODEL. ANTHROPIC IS WINNING ANYWAY",
+        "description": "OpenAI's frontier models beat Anthropic's in benchmarks, but",
+        "link": "https://blog.ravi-mehta.com/p/openai-vs-anthropic?utm_source=tldrnewsletter"
       },
       {
         "title": "BATTLE' WITH APPLE",
@@ -1018,6 +1283,11 @@
         "link": "https://cursor.com/blog/composer-2-5?utm_source=tldrai"
       },
       {
+        "title": "WHAT POLITICAL CENSORSHIP LOOKS LIKE INSIDE AN LLM'S WEIGHTS",
+        "description": "Qwen3.5-9B's political censorship is a small circuit that can be read",
+        "link": "https://vas-blog.pages.dev/qwen-censorship/?utm_source=tldrai"
+      },
+      {
         "title": "AGENT EVALUATION: A DETAILED GUIDE",
         "description": "LLM evaluation has shifted from static benchmarks to more dynamic,",
         "link": "https://cameronrwolfe.substack.com/p/agent-evals?utm_source=tldrai"
@@ -1051,6 +1321,11 @@
         "title": "LLM WIKI V2",
         "description": "This post contains a pattern for building personal knowledge bases",
         "link": "https://gist.github.com/kanmadigital/2369c4f5ea410cb8f6a1647b40c0e2a1?utm_source=tldrai"
+      },
+      {
+        "title": "TURN REPEATED INSTRUCTIONS INTO REUSABLE SKILLS IN LOVABLE",
+        "description": "Skills in Lovable allow users to create reusable, markdown-based",
+        "link": "https://lovable.dev/blog/introducing-skills?utm_source=tldrai"
       },
       {
         "title": "INTRODUCING SCHEDULED TASKS 2.0",
@@ -1168,6 +1443,16 @@
         "link": "https://links.tldrnewsletter.com/yrHjWD"
       },
       {
+        "title": "KIT STUDIO REBRANDS ST. JOHN'S COLLEGE WITH CRAFTMANSHIP",
+        "description": "St John's College Durham introduced a new visual identity by Kit",
+        "link": "https://links.tldrnewsletter.com/OFGG01"
+      },
+      {
+        "title": "FORM OVER FUNCTION: HOW PRETTY DESIGN CAN HURT YOUR BUSINESS",
+        "description": "Pretty design that prioritizes aesthetics over usability can harm",
+        "link": "https://blog.tubikstudio.com/form-over-function-mistakes/?utm_source=tldrdesign"
+      },
+      {
         "title": "IMAGINATIVE FANTASY CHARACTERS",
         "description": "Uzbekistan concept artist Anastasiya Landasseln creates fantasy",
         "link": "https://www.creativebloq.com/art/digital-art/from-ents-to-tech-priests-this-artist-fuses-machinery-and-organic-biomatter-to-create-incredible-fantasy-creatures?utm_source=tldrdesign"
@@ -1193,9 +1478,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "HOW GRAB IS USING AI AGENTS TO BOOST TEAM PRODUCTIVITY",
+        "description": "Grab's data engineering team built a multi-agent system to automate",
+        "link": "https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost?utm_source=tldrdev"
+      },
+      {
         "title": "PIPELINES",
         "description": "Slack modernized its data infrastructure by migrating over 700 data",
         "link": "https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines/?utm_source=tldrdev"
+      },
+      {
+        "title": "NOBODY PUSHED BACK: WHY ENGINEERS STAY SILENT UNTIL IT'S TOO LATE",
+        "description": "Big company disasters usually happen because people are too scared to",
+        "link": "https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back?utm_source=tldrdev"
       },
       {
         "title": "THE JOYS OF FREE CLOUDFLARE",
@@ -1203,14 +1498,29 @@
         "link": "https://dm13450.github.io/2026/05/18/the-joys-of-free-cloudflare.html?utm_source=tldrdev"
       },
       {
+        "title": "WE LET FOUR AIS RUN RADIO STATIONS. HERE'S WHAT HAPPENED.",
+        "description": "The Andon FM project deployed four AI models to autonomously manage",
+        "link": "https://andonlabs.com/blog/andon-fm?utm_source=tldrdev"
+      },
+      {
         "title": "THE LAST SIX MONTHS IN LLMS IN FIVE MINUTES",
         "description": "Between late 2025 and early 2026, AI models from leading labs reached",
         "link": "https://simonwillison.net/2026/May/19/5-minute-llms/?utm_source=tldrdev"
       },
       {
+        "title": "FROM KUBERNETES DEV SETUP TO PRODUCTION: WHAT ACTUALLY CHANGES",
+        "description": "Moving Kubernetes apps to production is done by focusing on",
+        "link": "https://georg-schwarz.com/blog/from-kubernetes-demo-to-production-platform/?utm_source=tldrdev"
+      },
+      {
         "title": "LET'S TALK ABOUT AI SLOP",
         "description": "To protect the integrity of open-source development from an influx of",
         "link": "https://archestra.ai/blog/only-responsible-ai?utm_source=tldrdev"
+      },
+      {
+        "title": "YES, YOU CAN SERVE A WEBSITE FROM A $1 MICROCONTROLLER",
+        "description": "A $1.30 8-bit microcontroller can successfully host a basic,",
+        "link": "https://www.theregister.com/offbeat/2026/05/18/yes-you-can-serve-a-website-from-a-1-microcontroller/5242096?utm_source=tldrdev"
       }
     ]
   },
@@ -1223,9 +1533,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "BEFORE MASS LAYOFFS, META REASSIGNS 7,000 WORKERS TO FOCUS ON AI",
+        "description": "Meta is moving 7,000 employees to four new organizations focused on",
+        "link": "https://links.tldrnewsletter.com/gOrUhj"
+      },
+      {
         "title": "JURY REJECTS MUSK'S CLAIMS AGAINST OPENAI",
         "description": "A judge has dismissed Elon Musk's claims against OpenAI. A jury found",
         "link": "https://links.tldrnewsletter.com/lxdyz7"
+      },
+      {
+        "title": "UNITREE'S IPO FILING: THE STATE OF THE ROBOTICS MARKET",
+        "description": "Unitree Robotics recently filed for IPO on Shanghai's STAR Market.",
+        "link": "https://www.tanayj.com/p/unitrees-ipo-filing-the-state-of?utm_source=tldrnewsletter"
       },
       {
         "title": "HERE'S WHAT THE WI-FI ROUTER FOR AMAZON'S STARLINK RIVAL LOOKS LIKE",
@@ -1241,6 +1561,16 @@
         "title": "AI EATS THE WORLD",
         "description": "Big tech is pouring around $700 billion into AI capital expenditures",
         "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "META'S GIANT AI DATA CENTER IS RESHAPING RURAL LOUISIANA",
+        "description": "Meta's plans to build the world's biggest AI facility have entangled",
+        "link": "https://links.tldrnewsletter.com/WuPjB0"
+      },
+      {
+        "title": "APPLE IS MAKING HIT PRODUCTS AND HIGH PROFITS FROM IMPERFECT CHIPS",
+        "description": "Repurposing chips is one of the many ways Apple leverages its supply",
+        "link": "https://links.tldrnewsletter.com/bGmOBp"
       },
       {
         "title": "THE AMERICAN REBELLION AGAINST AI IS GAINING STEAM",
@@ -1313,6 +1643,11 @@
         "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start?utm_source=tldrai"
       },
       {
+        "title": "NOTES ON PRETRAINING PARALLELISMS AND FAILED TRAINING RUNS",
+        "description": "Pretraining runs often fail. This article looks at all the ways that",
+        "link": "https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms?utm_source=tldrai"
+      },
+      {
         "title": "COMPRESSED ATTENTION",
         "description": "KV-cache size, memory traffic, and attention cost quickly become the",
         "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures?utm_source=tldrai"
@@ -1336,6 +1671,11 @@
         "title": "APPLE SILICON COSTS MORE THAN OPENROUTER",
         "description": "Openrouter costs about 1/3 the price at around 2x the speed for",
         "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html?utm_source=tldrai"
+      },
+      {
+        "title": "DEEPSEEK-V4-FLASH MEANS LLM STEERING IS INTERESTING AGAIN",
+        "description": "Steering is the idea that LLM outputs can be guided by directly",
+        "link": "https://www.seangoedecke.com/steering-vectors/?utm_source=tldrai"
       },
       {
         "title": "THE TEAM",
@@ -1388,6 +1728,16 @@
         "link": "https://apichangelog.substack.com/p/moving-from-api-operations-to-business-capabilities?utm_source=tldrit"
       },
       {
+        "title": "FROM FORWARD DEPLOYED ENGINEERS TO FORWARD DEPLOYED SOFTWARE",
+        "description": "Frontier labs are pouring billions into armies of forward-deployed",
+        "link": "https://enterprisecontextmanagement.substack.com/p/from-forward-deployed-engineers-to?utm_source=tldrit"
+      },
+      {
+        "title": "AGENT HOOKS: DETERMINISTIC CONTROL FOR AGENT WORKFLOWS",
+        "description": "Agent hooks provide deterministic control by attaching user-defined",
+        "link": "https://nader.substack.com/p/agent-hooks-deterministic-control?utm_source=tldrit"
+      },
+      {
         "title": "GOOGLE WARNS AI IS ACCELERATING CYBERATTACKS",
         "description": "Cybercriminals are increasingly using AI to automate phishing,",
         "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access?utm_source=tldrit"
@@ -1402,6 +1752,11 @@
     "received_at": "2026-05-18 17:14:46",
     "processed": 0,
     "articles": [
+      {
+        "title": "AIRPODS MAX DESIGNER REVEALS PROJECT DETAILS IN NEW INTERVIEW",
+        "description": "Former Apple designer Eugene Whang revealed that the AirPods Max took",
+        "link": "https://9to5mac.com/2026/05/15/airpods-max-designer-reveals-project-details-in-new-interview/?utm_source=tldrdesign"
+      },
       {
         "title": "MONETIZATION TRACTION",
         "description": "Figma's stock rose over 12% after reporting first-quarter revenue of",
@@ -1423,14 +1778,34 @@
         "link": "https://www.smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/?utm_source=tldrdesign"
       },
       {
+        "title": "LOVABLE'S AI BUILT A 100% ACCESSIBLE SITE – OR DID IT?",
+        "description": "A developer conference site built with Lovable scored 100% on",
+        "link": "https://axesslab.com/lovable/?utm_source=tldrdesign"
+      },
+      {
+        "title": "CAN A NEW LOGO HELP THREADS ESCAPE INSTAGRAM'S SHADOW?",
+        "description": "Threads has introduced a refreshed logo and wordmark as part of an",
+        "link": "https://www.creativebloq.com/design/logos-icons/can-a-new-logo-help-threads-escape-instagrams-shadow?utm_source=tldrdesign"
+      },
+      {
         "title": "YOUR IMAGE IS ALMOST RIGHT",
         "description": "Mini Apps is a set of AI tools designed to fix common image",
         "link": "https://journal.everypixel.com/your-image-is-almost-right?utm_source=tldrdesign"
       },
       {
+        "title": "A DESIGNER OF THE WORLD'S MOST UBIQUITOUS SYMBOLS, THE MOVIE",
+        "description": "Filmmaker Valentina Canavesio is creating a documentary about Roger",
+        "link": "https://www.printmag.com/daily-heller/the-daily-heller-roger-cook/?utm_source=tldrdesign"
+      },
+      {
         "title": "LIKE A CATALOGUE LAYOUT'",
         "description": "Jiyung Lee creates meticulously structured drawings inspired by the",
         "link": "https://www.creativeboom.com/inspiration/jiyung-lees-illustrations-of-everyday-items-are-organised-almost-like-a-catalogue-layout/?utm_source=tldrdesign"
+      },
+      {
+        "title": "ADORABLE REALISM MEETS CARTOON MAGIC: STUNNING DIGITAL PAINTINGS",
+        "description": "Russian artist Lera Kiryakova creates stunning digital paintings that",
+        "link": "https://designyoutrust.com/2026/05/adorable-realism-meets-cartoon-magic-stunning-digital-paintings-by-russian-artist-lera-kiryakova/?utm_source=tldrdesign"
       },
       {
         "title": "YORK DOWNTOWN",
@@ -1448,6 +1823,16 @@
     "processed": 0,
     "articles": [
       {
+        "title": "MOVING AWAY FROM TAILWIND, AND LEARNING TO STRUCTURE MY CSS",
+        "description": "A transition away from Tailwind CSS means adopting a workflow",
+        "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/?utm_source=tldrdev"
+      },
+      {
+        "title": "CONTEXT PRUNING: CUT LLM TOKENS WITHOUT LOSING QUALITY",
+        "description": "Context pruning is a technique that removes low-value elements from",
+        "link": "https://redis.io/blog/context-pruning-llm-tokens/?utm_source=tldrdev"
+      },
+      {
         "title": "I DON'T THINK AI WILL MAKE YOUR PROCESSES GO FASTER",
         "description": "Organizations often have unrealistic expectations that AI will",
         "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/?utm_source=tldrdev"
@@ -1456,6 +1841,16 @@
         "title": "THE CTF SCENE IS DEAD",
         "description": "Frontier AI models have disrupted the open Capture The Flag (CTF)",
         "link": "https://kabir.au/blog/the-ctf-scene-is-dead?utm_source=tldrdev"
+      },
+      {
+        "title": "EVERY AI SUBSCRIPTION IS A TICKING TIME BOMB FOR ENTERPRISE",
+        "description": "Major AI providers are currently subsidizing enterprise subscriptions",
+        "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb?utm_source=tldrdev"
+      },
+      {
+        "title": "HOW BRAZE'S CTO IS RETHINKING ENGINEERING FOR THE AGENTIC AREA",
+        "description": "Braze shifted to AI-first engineering in a few months, with 60%+ of",
+        "link": "https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/?utm_source=tldrdev"
       },
       {
         "title": "NATIVE ALL THE WAY, UNTIL YOU NEED TEXT",
@@ -1523,6 +1918,11 @@
         "link": "https://www.buildbuddy.io/blog/content-defined-chunking/?utm_source=tldrdevops"
       },
       {
+        "title": "AWS SECURITY AGENT NOW SUPPORTS FULL REPOSITORY CODE REVIEWS",
+        "description": "AWS launched full repository code review for AWS Security Agent,",
+        "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/?utm_source=tldrdevops"
+      },
+      {
         "title": "MANAGER",
         "description": "Kubernetes v1.36 added a new alpha metric called",
         "link": "https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/?utm_source=tldrdevops"
@@ -1537,6 +1937,11 @@
     "received_at": "2026-05-18 17:14:50",
     "processed": 0,
     "articles": [
+      {
+        "title": "ANDY JASSY IS REWRITING AMAZON'S PLAYBOOK FOR THE AI AGE",
+        "description": "Andy Jassy took the role of Amazon's CEO five years ago. He recently",
+        "link": "https://links.tldrnewsletter.com/utfJ7P"
+      },
       {
         "title": "SKY-HIGH",
         "description": "SpaceX plans to launch the newest version of its Starship rocket on",
@@ -1566,6 +1971,11 @@
         "title": "THE SIGMOIDS WON'T SAVE YOU",
         "description": "The idea that all exponentials eventually become sigmoids might not",
         "link": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "AGENT HOOKS: DETERMINISTIC CONTROL FOR AGENT WORKFLOWS",
+        "description": "Hooks make agent workflows more dependable by implementing tests,",
+        "link": "https://nader.substack.com/p/agent-hooks-deterministic-control?utm_source=tldrnewsletter"
       },
       {
         "title": "GIT IS NOT FINE",
@@ -1613,6 +2023,21 @@
         "link": "https://links.tldrnewsletter.com/zcoSPA"
       },
       {
+        "title": "AWS OUTAGE MAY 2026: LESSONS FOR DATABASE DISASTER RECOVERY",
+        "description": "A major AWS US-EAST-1 outage in May was triggered by a data center",
+        "link": "https://www.singlestore.com/blog/aws-outage-may-2026-cross-region-disaster-recovery/?utm_source=tldrdata"
+      },
+      {
+        "title": "EXPLORING SCHEMA EVOLUTION WITH ONTOLOGY-DRIVEN PROPAGATION",
+        "description": "A plain-English ontology can act as a runtime access policy that",
+        "link": "https://dlthub.com/blog/llm-ontology-schema-evolution?utm_source=tldrdata"
+      },
+      {
+        "title": "THE MODERN DATA STACK IS OVERCOMPLICATED: DATA INGESTION",
+        "description": "Data ingestion looks simple, but the wrong choice can create hidden",
+        "link": "https://lukewhittaker.substack.com/p/the-modern-data-stack-is-overcomplicated-5ff?utm_source=tldrdata"
+      },
+      {
         "title": "WELCOME TO ORDER BY JUNGLE",
         "description": "PostgreSQL resolves column names and expressions in ORDER BY clauses",
         "link": "https://boringsql.com/posts/order-by-jungle/?utm_source=tldrdata"
@@ -1631,6 +2056,21 @@
         "title": "WHAT MATTERS IN PRODUCTION RAG",
         "description": "Key requirements for production RAG include smart chunking strategies",
         "link": "https://arpitbhayani.me/blogs/rag-production/?utm_source=tldrdata"
+      },
+      {
+        "title": "YOUR AI AGENT DELETES CRITICAL DATA: WHO IS RESPONSIBLE?",
+        "description": "AI agents that can write to production systems create a new",
+        "link": "https://www.cio.com/article/4170277/your-ai-agent-deletes-critical-data-who-is-responsible.html?utm_source=tldrdata"
+      },
+      {
+        "title": "CONTEXT PRUNING: CUT LLM TOKENS WITHOUT LOSING QUALITY",
+        "description": "Context Pruning is the practice of selectively removing low-value",
+        "link": "https://redis.io/blog/context-pruning-llm-tokens/?utm_source=tldrdata"
+      },
+      {
+        "title": "WHAT LEADING A DATA TEAM ACTUALLY LOOKS LIKE RIGHT NOW",
+        "description": "Data leaders still face the same core challenges despite the AI hype:",
+        "link": "https://seattledataguy.substack.com/p/what-leading-a-data-team-actually?utm_source=tldrdata"
       },
       {
         "title": "HOW AGENTS USE SYSTEMS DIFFERENTLY",
@@ -1668,6 +2108,16 @@
         "link": "https://www.anthropic.com/research/2028-ai-leadership?utm_source=tldrai"
       },
       {
+        "title": "HOW WE BUILT SECURE, SCALABLE AGENT SANDBOX INFRASTRUCTURE",
+        "description": "There are two ways to sandbox an agent that can execute code: isolate",
+        "link": "https://links.tldrnewsletter.com/YdHVm8"
+      },
+      {
+        "title": "CODEX IS GETTING EASIER TO AUTOMATE AND CUSTOMIZE AROUND YOUR CODE",
+        "description": "Codex has implemented hooks and programmatic tokens to make it easier",
+        "link": "https://threadreaderapp.com/thread/2055032115964870838.html?utm_source=tldrai"
+      },
+      {
         "title": "GENKIT MIDDLEWARE",
         "description": "Genkit is a framework for building full-stack, AI-powered and agentic",
         "link": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/?utm_source=tldrai"
@@ -1678,6 +2128,16 @@
         "link": "https://huggingface.co/blog/continuous_async?utm_source=tldrai"
       },
       {
+        "title": "ELON MUSK'S SPACEXAI HAS BEEN BLEEDING STAFF SINCE ITS MERGER",
+        "description": "SpaceXAI is reportedly losing top talent across coding, world models,",
+        "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/?utm_source=tldrai"
+      },
+      {
+        "title": "MICROSOFT IS QUIETLY SHOPPING FOR AN OPENAI REPLACEMENT",
+        "description": "Microsoft signed a deal with OpenAI late April that amended the",
+        "link": "https://thenextweb.com/news/microsoft-startup-deals-life-after-openai?utm_source=tldrai"
+      },
+      {
         "title": "FRONTIER' OF AI",
         "description": "Nvidia has announced a partnership with Ineffable Intelligence, a",
         "link": "https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html?utm_source=tldrai"
@@ -1686,6 +2146,16 @@
         "title": "IGOR BABUSCHKIN SEEKS UP TO $1 BILLION FOR RIVER AI",
         "description": "Babuschkin, an xAI cofounder, is putting in $100 million of his own",
         "link": "https://letsdatascience.com/news/igor-babuschkin-seeks-up-to-1-billion-for-river-ai-8c36ce09?utm_source=tldrai"
+      },
+      {
+        "title": "OPENSQUILLA LAUNCHES OPEN-SOURCE AI AGENT TO CUT TOKEN COSTS",
+        "description": "OpenSquilla has introduced an open-source AI agent runtime designed",
+        "link": "https://www.testingcatalog.com/opensquilla-launches-open-source-ai-agent-to-cut-token-costs/?utm_source=tldrai"
+      },
+      {
+        "title": "TOTO 2.0: TIME SERIES FORECASTING ENTERS THE SCALING ERA",
+        "description": "Datadog's Toto 2.0, a scalable time series forecasting model family,",
+        "link": "https://www.datadoghq.com/blog/ai/toto-2/?utm_source=tldrai"
       },
       {
         "title": "WORK WITH CODEX FROM ANYWHERE",
@@ -1703,9 +2173,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "SAP BLOCKS EXTERNAL AI AGENTS. SALESFORCE AND SERVICENOW DON'T",
+        "description": "SAP's 2026 API policy prohibits external AI agents from accessing",
+        "link": "https://links.tldrnewsletter.com/BpdNxM"
+      },
+      {
         "title": "AI CODING SAVES TIME, THEN CREATES REVIEW WORK",
         "description": "AI coding tools are changing engineering roles from writing code to",
         "link": "https://www.ciodive.com/news/engineering-roles-shift-managing-AI/820297/?utm_source=tldrit"
+      },
+      {
+        "title": "CISCO CUTS 4,000 JOBS WHILE DOUBLING DOWN ON AI AND SECURITY",
+        "description": "Cisco is cutting nearly 4,000 roles, around 5% of its workforce,",
+        "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/?utm_source=tldrit"
       },
       {
         "title": "IS SOFTWARE LOSING ITS HEAD?",
@@ -1718,9 +2198,19 @@
         "link": "https://www.cio.com/article/4171054/ai-driven-layoffs-arent-making-business-sense.html?utm_source=tldrit"
       },
       {
+        "title": "MICROSOFT ADDS GROK 4.3 TO FOUNDRY FOR ENTERPRISE AI WORKFLOWS",
+        "description": "Microsoft integrated xAI's Grok 4.3 into its Foundry platform to",
+        "link": "https://links.tldrnewsletter.com/M7tMHA"
+      },
+      {
         "title": "NOTION TURNS ITS WORKSPACE INTO AN AGENT HUB",
         "description": "Notion launched a developer platform that lets teams connect external",
         "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/?utm_source=tldrit"
+      },
+      {
+        "title": "SANDWORM HACKERS SHIFT FROM IT BREACHES TO CRITICAL OT TARGETS",
+        "description": "Threat actor Sandworm is expanding operations from IT network",
+        "link": "https://gbhackers.com/sandworm-shift-from-it-breaches/?utm_source=tldrit"
       },
       {
         "title": "ENTERPRISES HAVE AI AMBITION, BUT NOT AI-READY DATA",
@@ -1788,6 +2278,11 @@
         "link": "https://www.designboom.com/design/tey-bannerman-ai-strategy-design-leaders-interview/?utm_source=tldrdesign"
       },
       {
+        "title": "10 COMMON COMPONENT ARCHITECTURE MISTAKES IN FIGMA DESIGN SYSTEMS",
+        "description": "Ten common Figma component architecture mistakes — from over-using",
+        "link": "https://zeroheight.com/blog/10-common-component-architecture-mistakes-in-figma-design-systems/?utm_source=tldrdesign"
+      },
+      {
         "title": "THE DEATH OF THE EMPTY STATE IN AI PRODUCTS",
         "description": "Many modern AI products rely on a blank prompt box as their main",
         "link": "https://links.tldrnewsletter.com/Qe7dnQ"
@@ -1823,6 +2318,11 @@
     "processed": 0,
     "articles": [
       {
+        "title": "FIRST PUBLIC MACOS KERNEL MEMORY CORRUPTION EXPLOIT ON APPLE M5",
+        "description": "Researchers successfully developed the first public macOS kernel",
+        "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption?utm_source=tldrdev"
+      },
+      {
         "title": "ADOPTING HERB AT GITHUB",
         "description": "A staff engineer integrated Herb, a C-based parser for HTML+ERB",
         "link": "https://hawksley.org/2026/05/06/adopting-herb-at-github.html?utm_source=tldrdev"
@@ -1841,6 +2341,11 @@
         "title": "WORK WITH CODEX FROM ANYWHERE",
         "description": "ChatGPT Codex is now available in preview on the ChatGPT mobile app,",
         "link": "https://links.tldrnewsletter.com/sZxd1c"
+      },
+      {
+        "title": "DID CAPACITY SHORTAGES TURN ANTHROPIC HOSTILE TO DEVS?",
+        "description": "Anthropic recently faced backlash for restricting developer features",
+        "link": "https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/?utm_source=tldrdev"
       },
       {
         "title": "WHY ARE AI COMPANIES BUYING THE TEAMS BEHIND YOUR FAVORITE DEV TOOLS?",
@@ -1868,9 +2373,29 @@
     "processed": 0,
     "articles": [
       {
+        "title": "SHIP CODE WITHIN MINUTES WITH THE GEMINI CLI DEVOPS EXTENSION",
+        "description": "The Gemini CLI CI/CD extension bridges the gap between local",
+        "link": "https://cloud.google.com/blog/topics/developers-practitioners/ship-code-within-minutes-with-the-gemini-cli-devops-extension/?utm_source=tldrdevops"
+      },
+      {
         "title": "BY FALCO",
         "description": "Prempti is an open-source security tool that uses Falco's detection",
         "link": "https://webflow.sysdig.com/blog/introducing-prempti-runtime-security-for-ai-coding-agents-powered-by-falco?utm_source=tldrdevops"
+      },
+      {
+        "title": "KUBERNETES V1.36: ADVANCING WORKLOAD-AWARE SCHEDULING",
+        "description": "Kubernetes v1.36 introduced a major architectural overhaul for",
+        "link": "https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling/?utm_source=tldrdevops"
+      },
+      {
+        "title": "AGENT PULL REQUESTS ARE EVERYWHERE. HERE'S HOW TO REVIEW THEM",
+        "description": "Agent-generated pull requests are increasing review load while",
+        "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/?utm_source=tldrdevops"
+      },
+      {
+        "title": "BUILDING AN END-TO-END AGENTIC SRE USING AWS DEVOPS AGENT",
+        "description": "AWS DevOps Agent enables autonomous SRE workflows by correlating",
+        "link": "https://aws.amazon.com/blogs/devops/building-an-end-to-end-agentic-sre-using-aws-devops-agent/?utm_source=tldrdevops"
       },
       {
         "title": "SHELL TOOL TESTING",
@@ -1891,6 +2416,11 @@
         "title": "CAPABILITIES FOR IPV6 QUERY TRAFFIC",
         "description": "Amazon Route 53 Resolver endpoints now support DNS64 on inbound",
         "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/?utm_source=tldrdevops"
+      },
+      {
+        "title": "KUBERNETES V1.36: PSI METRICS FOR KUBERNETES GRADUATES TO GA",
+        "description": "Kubernetes v1.36 has graduated Pressure Stall Information (PSI)",
+        "link": "https://kubernetes.io/blog/2026/05/12/kubernetes-v1-36-psi-metrics-ga/?utm_source=tldrdevops"
       }
     ]
   },
@@ -1903,9 +2433,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "APPLE-OPENAI ALLIANCE FRAYS, SETTING UP POSSIBLE LEGAL FIGHT",
+        "description": "OpenAI may be preparing legal action against Apple as it has failed",
+        "link": "https://links.tldrnewsletter.com/hbByWV"
+      },
+      {
         "title": "STUDIO",
         "description": "Netflix's INKubator is an artist-led animation incubator that",
         "link": "https://www.animationmagazine.net/2026/05/netflix-staffing-for-inkubator-ai-powered-experimental-animation-studio/?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "WORLD'S FIRST NATIVE COLOR LIDAR GIVES MACHINES HUMAN-LIKE VISION",
+        "description": "Ouster's new Rev8 sensor family fuses color directly into every point",
+        "link": "https://newatlas.com/technology/ouster-rev8-native-color-lidar/?utm_source=tldrnewsletter"
       },
       {
         "title": "INTERVENTION",
@@ -1978,6 +2518,11 @@
         "link": "https://links.tldrnewsletter.com/objCxW"
       },
       {
+        "title": "AI CHIPMAKER CEREBRAS RAISES $5.55 BILLION IN YEAR'S BIGGEST IPO",
+        "description": "Cerebras raised $5.5 billion in its US IPO at a market valuation of",
+        "link": "https://links.tldrnewsletter.com/LurP3s"
+      },
+      {
         "title": "ANTHROPIC BEATS OPENAI ON BUSINESS ADOPTION",
         "description": "Anthropic has passed OpenAI in business adoption. More businesses",
         "link": "https://econlab.substack.com/p/anthropic-beats-openai?utm_source=tldrai"
@@ -1996,6 +2541,11 @@
         "title": "AI GATEWAY PRODUCTION TRENDS",
         "description": "Vercel analyzed seven months of AI Gateway production traffic",
         "link": "https://vercel.com/blog/ai-gateway-production-index?utm_source=tldrai"
+      },
+      {
+        "title": "CLINE RELEASES OPEN-SOURCE AGENT RUNTIME SDK FOR CODING AGENTS",
+        "description": "@cline/sdk is an open-source framework for building agentic",
+        "link": "https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/?utm_source=tldrai"
       },
       {
         "title": "PYTORCH 2.12 RELEASE HIGHLIGHTS",
@@ -2031,6 +2581,16 @@
         "title": "K2.6",
         "description": "DeepSeek V4 Pro scored 77/100 on the FlowGraph spec for $2.25 and",
         "link": "https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash?utm_source=tldrai"
+      },
+      {
+        "title": "PAID CLAUDE PLANS CAN CLAIM A DEDICATED MONTHLY CREDIT",
+        "description": "Paid Claude plans will be able to claim a dedicated monthly credit",
+        "link": "https://links.tldrnewsletter.com/qaqw3i"
+      },
+      {
+        "title": "META'S AI CHIEF ON AI BEEF, NEW MODELS AND LIFE WITH ZUCK",
+        "description": "This post contains a video of Alex Wang's first interview since he",
+        "link": "https://www.corememory.com/p/metas-ai-chief-alex-wang-muse-spark-ai-wars?utm_source=tldrai"
       }
     ]
   },
@@ -2048,9 +2608,24 @@
         "link": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/?utm_source=tldrit"
       },
       {
+        "title": "WI-FI 8 IS CLOSER THAN YOU THINK: HERE'S WHAT YOU NEED TO KNOW",
+        "description": "Wi-Fi 8 (802.11bn) is shifting focus from peak speeds to reliability",
+        "link": "https://www.networkworld.com/article/4170841/wi-fi-8-is-closer-than-you-think-heres-what-you-need-to-know.html?utm_source=tldrit"
+      },
+      {
         "title": "GOOGLE WORKSPACE",
         "description": "Google is making it easier for small businesses to migrate from",
         "link": "https://workspaceupdates.googleblog.com/2026/05/small-businesses-can-now-seamlessly-import-users-from-Microsoft-to-Google-Workspace.html?utm_source=tldrit"
+      },
+      {
+        "title": "THE BEST ARGUMENT I'VE HEARD FOR WHY AI WON'T TAKE YOUR JOB",
+        "description": "Box CEO Aaron Levie challenges the SaaSpocalypse narrative, arguing",
+        "link": "https://www.platformer.news/ai-job-loss-box-ceo-aaron-levie/?utm_source=tldrit"
+      },
+      {
+        "title": "WHY AND HOW TO IMPLEMENT AN AI ASSET RATIONALIZATION STRATEGY",
+        "description": "Companies are rapidly piling on copilots, models, and AI vendors",
+        "link": "https://www.informationweek.com/machine-learning-ai/why-and-how-to-implement-an-ai-asset-rationalization-strategy?utm_source=tldrit"
       },
       {
         "title": "SERVICENOW GOES HEADLESS AND OPENS ITS PLATFORM",
@@ -2113,14 +2688,34 @@
         "link": "https://www.unknownarts.co/p/designers-are-a-rare-breed?utm_source=tldrdesign"
       },
       {
+        "title": "HOW TO MAKE CLAUDE CODE FOLLOW YOUR DESIGN SYSTEM IN FIGMA",
+        "description": "Claude Code writes directly to Figma via Figma MCP but ignores design",
+        "link": "https://links.tldrnewsletter.com/ry5V9t"
+      },
+      {
+        "title": "APPLE'S FOLDING IPHONE SUDDENLY DOESN'T SOUND SO 'ULTRA'",
+        "description": "Rumors suggest Apple's upcoming folding iPhone — possibly branded",
+        "link": "https://www.creativebloq.com/design/product-design/apples-folding-iphone-suddenly-doesnt-sound-so-ultra?utm_source=tldrdesign"
+      },
+      {
         "title": "HOW TO CREATE WEBSITES WITH GREAT UX DESIGNS: PRINCIPLES AND EXAMPLES",
         "description": "Great UX websites prioritize user-first design, usability,",
         "link": "https://webflow.com/blog/websites-with-great-ux?utm_source=tldrdesign"
       },
       {
+        "title": "AGENTIC DESIGN SYSTEM - FROM CHATBOT TO ORCHESTRATION",
+        "description": "Design systems are evolving from passive component libraries into",
+        "link": "https://learn.thedesignsystem.guide/p/agentic-design-system-from-chatbot?utm_source=tldrdesign"
+      },
+      {
         "title": "HOW TO DO UX RESEARCH IN THE AGE OF AI",
         "description": "AI can identify trends and summarize information, but it still",
         "link": "https://links.tldrnewsletter.com/h53Qmb"
+      },
+      {
+        "title": "1,000 RECORD COVERS: THE BOOK THAT PROVES ALBUM ART IS HIGH ART",
+        "description": "\"1,000 Record Covers\" by Michael Ochs presents 574 pages of album art",
+        "link": "https://weandthecolor.com/1000-record-covers-the-taschen-book-that-proves-album-art-is-high-art/209646?utm_source=tldrdesign"
       },
       {
         "title": "DENSER",
@@ -2148,6 +2743,11 @@
         "link": "https://questdb.com/blog/window-join-parallel-vectorized/?utm_source=tldrdev"
       },
       {
+        "title": "TOKENMAXXING, PROMOMAXXING, AND MISALIGNED INCENTIVES IN TECH",
+        "description": "Performance metrics like AI token usage or project complexity can",
+        "link": "https://read.engineerscodex.com/p/tokenmaxxing-promomaxxing-and-misaligned?utm_source=tldrdev"
+      },
+      {
         "title": "THE EMACSIFICATION OF SOFTWARE",
         "description": "The Emacsification of software is where AI agents allow developers to",
         "link": "https://sockpuppet.org/blog/2026/05/12/emacsification/?utm_source=tldrdev"
@@ -2156,6 +2756,11 @@
         "title": "A HISTORY OF IDES AT GOOGLE",
         "description": "The evolution of development environments at Google has been from a",
         "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google?utm_source=tldrdev"
+      },
+      {
+        "title": "MALWARE CREW TEAMPCP OPEN-SOURCES ITS SHAI-HULUD WORM ON GITHUB",
+        "description": "The malware group TeamPCP has reportedly open-sourced its Shai-Hulud",
+        "link": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319?utm_source=tldrdev"
       },
       {
         "title": "WHY I'M LEAVING GITHUB FOR FORGEJO",
@@ -2183,9 +2788,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "APPLE IS WORKING TO INCORPORATE AI AGENTS ON THE APP STORE",
+        "description": "Apple is exploring ways to incorporate AI agents into the App Store",
+        "link": "https://9to5mac.com/2026/05/13/apple-is-working-to-incorporate-ai-agents-on-the-app-store-per-report/?utm_source=tldrnewsletter"
+      },
+      {
         "title": "STRATEGY PIVOT",
         "description": "Amazon is making Alexa the centerpiece of its AI shopping strategy.",
         "link": "https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "A START-UP AIMING TO MAKE GEOTHERMAL ENERGY MAINSTREAM GOES PUBLIC",
+        "description": "Fervo Energy is building a commercial geothermal plant in Utah and is",
+        "link": "https://links.tldrnewsletter.com/b5uQeG"
       },
       {
         "title": "COULD THIS BE THE MOMENT THAT DRUG MANUFACTURING TAKES OFF IN ORBIT?",
@@ -2213,14 +2828,29 @@
         "link": "https://om.co/2026/05/13/ai-is-the-new-netflix/?utm_source=tldrnewsletter"
       },
       {
+        "title": "LINKEDIN BECOMES THE LATEST NAME ON A 100,000-JOB TECH LAYOFF LIST",
+        "description": "LinkedIn is cutting roughly 5% of its staff.",
+        "link": "https://thenextweb.com/news/linkedin-layoffs-tech-100000-jobs-2026-wave?utm_source=tldrnewsletter"
+      },
+      {
         "title": "IS SOFTWARE LOSING ITS HEAD?",
         "description": "Incumbents are making an implicit bet that the data layer will remain",
         "link": "https://links.tldrnewsletter.com/wk36Lx"
       },
       {
+        "title": "CLINE RELEASES OPEN-SOURCE AGENT RUNTIME SDK FOR CODING AGENTS",
+        "description": "@cline/sdk is an open-source agent runtime that ships with agent",
+        "link": "https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/?utm_source=tldrnewsletter"
+      },
+      {
         "title": "ANTHROPIC WANTS SMALL BUSINESSES TO USE CLAUDE",
         "description": "Claude for Small Business connects Claude to common business tools to",
         "link": "https://links.tldrnewsletter.com/ZAlQ7L"
+      },
+      {
+        "title": "ANTHROPIC WAS BEHIND. NOW IT'S THE AI BOOM'S FRONT-RUNNER",
+        "description": "Anthropic has received investment offers in recent months valuing it",
+        "link": "https://links.tldrnewsletter.com/j02KSW"
       },
       {
         "title": "BLUE ORIGIN MAY NEED EXTERNAL FUNDING TO HIT AMBITIOUS LAUNCH TARGETS",
@@ -2248,6 +2878,11 @@
         "link": "https://links.tldrnewsletter.com/BdrSPI"
       },
       {
+        "title": "WHY YOUR AI AGENT HAS AMNESIA AND WHY FORGETTING IS THE FIX",
+        "description": "Enterprise AI agents fail in long workflows because they reset, lose",
+        "link": "https://links.tldrnewsletter.com/nSa2pQ"
+      },
+      {
         "title": "MIGRATING DATA INGESTION SYSTEMS AT META SCALE",
         "description": "Meta migrated its massive data ingestion system from legacy",
         "link": "https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/?utm_source=tldrdata"
@@ -2256,6 +2891,11 @@
         "title": "LAKEHOUSE STATISTICS AND WHY QUERY ENGINES GET LOST",
         "description": "Lakehouse query engines often struggle because the statistical",
         "link": "https://www.linkedin.com/pulse/lakehouse-statistics-why-query-engines-get-lost-neil-carson-agnac/?utm_source=tldrdata"
+      },
+      {
+        "title": "APRIL 2026 PDC STATE OF DATA MODELING SURVEY RESULTS ARE IN!",
+        "description": "A 334-response April 2026 pulse survey shows data modeling pain is",
+        "link": "https://practicaldatamodeling.substack.com/p/april-2026-pdc-state-of-data-modeling?utm_source=tldrdata"
       },
       {
         "title": "WE NEED TO TALK ABOUT DBT",
@@ -2313,6 +2953,11 @@
         "link": "https://links.tldrnewsletter.com/bzQw0n"
       },
       {
+        "title": "META TO RELEASE MUSE SPARK IN VOICE MODE AND META GLASSES",
+        "description": "Meta's Muse Spark foundational model is now powering Meta AI across",
+        "link": "https://www.testingcatalog.com/meta-to-release-muse-spark-in-voice-mode-and-meta-glasses/?utm_source=tldrai"
+      },
+      {
         "title": "GOOGLE EYES AI DATA CENTERS IN SPACE",
         "description": "Google and SpaceX were reportedly discussing orbital data centers as",
         "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/?utm_source=tldrai"
@@ -2353,6 +2998,11 @@
         "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/?utm_source=tldrai"
       },
       {
+        "title": "AI FOR THE REAL WORLD: A CONVERSATION WITH YANN LECUN",
+        "description": "Today's LLMs may be commercially valuable, but predicting text alone",
+        "link": "https://links.tldrnewsletter.com/NRfOI6"
+      },
+      {
         "title": "QWEN-IMAGE-2.0 TECHNICAL REPORT",
         "description": "The Qwen team released Qwen-Image-2.0, their latest multimodal image",
         "link": "https://arxiv.org/abs/2605.10730?utm_source=tldrai"
@@ -2388,6 +3038,11 @@
         "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/?utm_source=tldrit"
       },
       {
+        "title": "CHECKMARX JENKINS PLUGIN COMPROMISED IN NEW SUPPLY CHAIN ATTACK",
+        "description": "The Checkmarx Jenkins AST plugin version 2026.5.09 is compromised by",
+        "link": "https://www.techzine.eu/news/security/141212/checkmarx-jenkins-plugin-compromised-in-new-supply-chain-attack/?utm_source=tldrit"
+      },
+      {
         "title": "AI USAGE METRICS START GETTING GAMED",
         "description": "Employees at Amazon, Meta, and Microsoft have reportedly gamed",
         "link": "https://www.tomshardware.com/tech-industry/big-tech/big-tech-has-a-tokenmaxxing-habit?utm_source=tldrit"
@@ -2406,6 +3061,11 @@
         "title": "EXAFORCE RAISES $125M FOR AI CYBERSECURITY",
         "description": "Exaforce raised a $125M Series B to build AI systems that catch and",
         "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/?utm_source=tldrit"
+      },
+      {
+        "title": "VMWARE PUSHES PRIVATE CLOUD AS THE HOME FOR ENTERPRISE AI",
+        "description": "Broadcom launched VMware Cloud Foundation 9.1 with cheaper memory",
+        "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/whats-new-with-vsphere-9-1/?utm_source=tldrit"
       },
       {
         "title": "ORCHESTRATION UPDATE AND AI AGENT CONTROLS",
@@ -2478,6 +3138,11 @@
         "link": "https://links.tldrnewsletter.com/I9cO7Z"
       },
       {
+        "title": "TOP 10 COOL DESIGN GADGETS FOR CREATIVE PROFESSIONALS IN 2026",
+        "description": "The best design gadgets for creative professionals in 2026 represent",
+        "link": "https://weandthecolor.com/top-10-design-gadgets-for-creative-professionals-that-will-change-how-you-work-in-2026/209574?utm_source=tldrdesign"
+      },
+      {
         "title": "STORYTELLING",
         "description": "Wax Heads is a cozy puzzle game where you work in a record store,",
         "link": "https://www.creativebloq.com/entertainment/gaming/wax-heads-review-a-cosy-puzzler-where-art-does-more-than-storytelling?utm_source=tldrdesign"
@@ -2501,6 +3166,16 @@
         "title": "HOW DISCORD AUTOMATES SCYLLADB CLUSTERS AT SCALE",
         "description": "Discord replaced its fragile, manual ScyllaDB management scripts with",
         "link": "https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale?utm_source=tldrdev"
+      },
+      {
+        "title": "WHY SENIOR DEVELOPERS FAIL TO COMMUNICATE THEIR EXPERTISE",
+        "description": "Senior developers struggle to communicate effectively because their",
+        "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise?utm_source=tldrdev"
+      },
+      {
+        "title": "WHEN LIFE GIVES YOU LEMONS, WRITE BETTER ERROR MESSAGES",
+        "description": "Wix launched a massive initiative to replace thousands of generic",
+        "link": "https://links.tldrnewsletter.com/KPPfjm"
       },
       {
         "title": "TREAT AGENT OUTPUT LIKE COMPILER OUTPUT",
@@ -2548,9 +3223,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "LDAP SECRETS MANAGEMENT NOW AVAILABLE IN IBM VAULT ENTERPRISE 2.0",
+        "description": "Vault Enterprise 2.0 modernizes LDAP secrets management by",
+        "link": "https://www.hashicorp.com/en/blog/ldap-secrets-management-now-available-in-ibm-vault-enterprise-20?utm_source=tldrdevops"
+      },
+      {
         "title": "INTEGRATED DATA LAKE QUERY ENGINE",
         "description": "AWS launched Amazon Redshift RG instances powered by Graviton",
         "link": "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/?utm_source=tldrdevops"
+      },
+      {
+        "title": "AI-ASSISTED TESTING, EXTENSIONS UPDATES, AND MORE: K6 2.0 IS HERE",
+        "description": "Grafana released k6 2.0, the open source performance testing tool",
+        "link": "https://grafana.com/blog/k6-2-0-release/?utm_source=tldrdevops"
       },
       {
         "title": "MIGRATING DATA INGESTION SYSTEMS AT META SCALE",
@@ -2613,9 +3298,19 @@
         "link": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/?utm_source=tldrnewsletter"
       },
       {
+        "title": "SPACEX AND GOOGLE ARE IN TALKS TO LAUNCH DATA CENTERS IN ORBIT",
+        "description": "Google is in talks with SpaceX and other rocket-launch companies for",
+        "link": "https://links.tldrnewsletter.com/eWnBt6"
+      },
+      {
         "title": "REDIS AND THE COST OF AMBITION",
         "description": "Projects developed as personal challenges and learning exercises are",
         "link": "https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "WHY SENIOR DEVELOPERS FAIL TO COMMUNICATE THEIR EXPERTISE",
+        "description": "Good senior developers aim to lower complexity. Adding to a system is",
+        "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise?utm_source=tldrnewsletter"
       },
       {
         "title": "27",
@@ -2631,6 +3326,11 @@
         "title": "AI ECONOMICS",
         "description": "Every lab is playing this same game: squeeze more tokens per watt,",
         "link": "https://sriramkrishnan.substack.com/p/ai-economics?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "MASSIVE LEAK REVEALS GOOGLE'S ALUMINIUM OS WITH A 16-MINUTE VIDEO",
+        "description": "Google's Aluminium OS is essentially plain Android with several",
+        "link": "https://www.androidauthority.com/google-aluminium-os-leak-3665979/?utm_source=tldrnewsletter"
       },
       {
         "title": "WHAT IS CODE?",
@@ -2663,9 +3363,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "INTERACTION MODELS: A SCALABLE APPROACH TO HUMAN-AI COLLABORATION",
+        "description": "Thinking Machines Lab introduced a new research preview of",
+        "link": "https://thinkingmachines.ai/blog/interaction-models/?utm_source=tldrai"
+      },
+      {
         "title": "ELON MUSK ANNOUNCES XAI WILL BECOME SPACEXAI DIVISION",
         "description": "Elon Musk announced that xAI will dissolve and integrate into SpaceX",
         "link": "https://www.notateslaapp.com/news/4116/elon-musk-announces-xai-will-dissolve-form-spacexai-subdivision?utm_source=tldrai"
+      },
+      {
+        "title": "GOOGLE'S GEMINI OMNI VIDEO MODEL SURFACES AHEAD OF I/O DEBUT",
+        "description": "Google's Gemini Omni video model surfaces ahead of I/O, integrating",
+        "link": "https://www.testingcatalog.com/googles-gemini-omni-video-model-surfaces-ahead-of-i-o-debut/?utm_source=tldrai"
       },
       {
         "title": "FOUNDATION MODEL SCALING",
@@ -2693,6 +3403,11 @@
         "link": "https://links.tldrnewsletter.com/as2rKg"
       },
       {
+        "title": "CODEX IS FOR PROSUMERS - HERE'S WHY (AND HOW) TO SWITCH",
+        "description": "a16z's Olivia Moore migrated her agentic workflows from Claude Cowork",
+        "link": "https://links.tldrnewsletter.com/yHRAGU"
+      },
+      {
         "title": "THE MAIN PATH TO TRULY CREATIVE AI",
         "description": "AI lacks creativity akin to humans due to the absence of intrinsic",
         "link": "https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai?utm_source=tldrai"
@@ -2701,6 +3416,11 @@
         "title": "DAYBREAK",
         "description": "OpenAI's Daybreak leverages AI to enhance cyber defense by",
         "link": "https://links.tldrnewsletter.com/yJOSCf"
+      },
+      {
+        "title": "SUTSKEVER SAYS HIS OPENAI STAKE WORTH ABOUT $7 BILLION",
+        "description": "OpenAI co-founder and former chief scientist Ilya Sutskever is one of",
+        "link": "https://links.tldrnewsletter.com/ErxjFZ"
       },
       {
         "title": "LOCALMAXXING",
@@ -2741,6 +3461,11 @@
         "title": "SOVEREIGN CLOUD MAY BE IMPOSSIBLE FOR MOST COUNTRIES",
         "description": "Gartner says fully sovereign cloud is only realistic for China or the",
         "link": "https://www.theregister.com/off-prem/2026/05/11/sovereign-cloud-is-only-possible-if-youre-chinese-or-american-gartner/5237660?utm_source=tldrit"
+      },
+      {
+        "title": "AMAZON OPENS ITS SUPPLY CHAIN NETWORK TO ALL BUSINESSES",
+        "description": "Amazon launched Amazon Supply Chain Services (ASCS) for businesses of",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-supply-chain-services-for-business?utm_source=tldrit"
       },
       {
         "title": "OPENAI BUYS AI CONSULTANCY TOMORO",
@@ -2798,6 +3523,11 @@
         "link": "https://9to5mac.com/2026/05/10/report-macos-27-to-feature-ui-tweaks-to-address-some-tahoe-design-complaints/?utm_source=tldrdesign"
       },
       {
+        "title": "AUTODESK'S FREE NEW TOOL OFFERS AN EASY WAY IN TO 3D MODELLING",
+        "description": "Autodesk has released Project Falcon, a free browser-based 3D",
+        "link": "https://www.creativebloq.com/3d/autodesks-free-new-tool-offers-an-easy-way-in-to-3d-modelling?utm_source=tldrdesign"
+      },
+      {
         "title": "FROM DOER TO DIRECTOR: THE AI MINDSET SHIFT",
         "description": "AI is transforming work from individual task execution to conducting",
         "link": "https://boagworld.com/emails/from-doer-to-director/?utm_source=tldrdesign"
@@ -2811,6 +3541,11 @@
         "title": "DISCOVERY IS THE WORK AI GIVES BACK",
         "description": "Most companies are failing to see meaningful returns from AI because",
         "link": "https://links.tldrnewsletter.com/0bOYmb"
+      },
+      {
+        "title": "THE COLLAPSE OF THE MID-LEVEL FREELANCE MARKET DUE TO AI",
+        "description": "AI has caused a collapse in the mid-level freelance design market,",
+        "link": "https://weandthecolor.com/freelance-designers-cant-compete-with-a-20-month-ai-subscription-heres-what-actually-works-now/209620?utm_source=tldrdesign"
       },
       {
         "title": "APPLE REALLY WANTS TO BE KING OF THE FRUIT LOGOS",
@@ -2843,9 +3578,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "I GOT A $134 CLOUDFLARE D1 BILL. HERE'S HOW I CUT IT 95%",
+        "description": "A SvelteKit site incurred a $134 Cloudflare D1 bill due to the",
+        "link": "https://fullstacksveltekit.com/blog/cloudflare-d1-bill?utm_source=tldrdev"
+      },
+      {
         "title": "TESTING VUE COMPONENTS IN THE BROWSER",
         "description": "Running integration tests for Vue components directly in a browser",
         "link": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/?utm_source=tldrdev"
+      },
+      {
+        "title": "THE SELF-DRIVING CODEBASE: BUILDING HORIZON AT WORKOS",
+        "description": "Horizon is an autonomous code factory that uses webhooks to trigger",
+        "link": "https://workos.com/blog/project-horizon?utm_source=tldrdev"
       },
       {
         "title": "IM GOING BACK TO WRITING CODE BY HAND",
@@ -2858,6 +3603,11 @@
         "link": "https://links.tldrnewsletter.com/A89bue"
       },
       {
+        "title": "INTERACTION MODELS: A SCALABLE APPROACH TO HUMAN-AI COLLABORATION",
+        "description": "Interaction models advance AI collaboration by natively handling",
+        "link": "https://thinkingmachines.ai/blog/interaction-models/?utm_source=tldrdev"
+      },
+      {
         "title": "IN YOUR CODEBASE",
         "description": "Deepsec is an open-source security harness that uses AI coding agents",
         "link": "https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base?utm_source=tldrdev"
@@ -2866,6 +3616,11 @@
         "title": "RUNNING LOCAL MODELS ON AN M4 WITH 24GB MEMORY",
         "description": "Running local LLMs on an M4 Mac with 24GB of RAM allows for",
         "link": "https://jola.dev/posts/running-local-models-on-m4?utm_source=tldrdev"
+      },
+      {
+        "title": "USEFUL MEMORIES BECOME FAULTY WHEN CONTINUOUSLY UPDATED BY LLMS",
+        "description": "LLM agents frequently degrade in performance when they continuously",
+        "link": "https://dylanzsz.github.io/faulty-memory/?utm_source=tldrdev"
       },
       {
         "title": "POSTMORTEM: TANSTACK NPM SUPPLY-CHAIN COMPROMISE",
@@ -2893,6 +3648,11 @@
     "processed": 0,
     "articles": [
       {
+        "title": "GOOGLE'S GEMINI OMNI VIDEO MODEL SURFACES AHEAD OF I/O DEBUT",
+        "description": "Screenshots of a revised user interface showing a model card for",
+        "link": "https://www.testingcatalog.com/googles-gemini-omni-video-model-surfaces-ahead-of-i-o-debut/?utm_source=tldrnewsletter"
+      },
+      {
         "title": "LAWYER CLAIMS",
         "description": "Elon Musk has accused Microsoft of aiding and abetting OpenAI as the",
         "link": "https://links.tldrnewsletter.com/widYSb"
@@ -2901,6 +3661,11 @@
         "title": "WITHOUT HUMANS",
         "description": "Figure has released a new video showing two robots performing",
         "link": "https://interestingengineering.com/ai-robotics/humanoids-team-up-to-make-a-bed?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "GOOGLE SAYS CRIMINAL HACKERS USED AI TO FIND A MAJOR SOFTWARE FLAW",
+        "description": "A criminal hacking group recently attempted to launch a widespread",
+        "link": "https://links.tldrnewsletter.com/vF572n"
       },
       {
         "title": "THROUGH YOUR AWS ACCOUNT",
@@ -2921,6 +3686,11 @@
         "title": "THE WU TAPES",
         "description": "Scott Wu is the founder and CEO of Cognition, an AI agent coding lab",
         "link": "https://colossus.com/article/scott-wu-tapes-cognition/?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "GITLAB PROMISES A DIFFERENT KIND OF LAYOFF AS BIZ PIVOTS TOWARD AI",
+        "description": "GitLab plans to reinvest most of the money it is saving on wages back",
+        "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422?utm_source=tldrnewsletter"
       },
       {
         "title": "THE LAST COMPANY",
@@ -2963,6 +3733,11 @@
         "link": "https://sherwood.news/markets/akamai-anthropic-report-billion-dollar-cloud-deal-ai-compute/?utm_source=tldrai"
       },
       {
+        "title": "GOOGLE SHIPPED GEMINI 3.1 FLASH-LITE IN GENERAL AVAILABILITY",
+        "description": "Google launched Gemini 3.1 Flash-Lite, accessible globally via Google",
+        "link": "https://www.testingcatalog.com/google-launches-gemini-3-1-flash-lite-in-general-availability/?utm_source=tldrai"
+      },
+      {
         "title": "WHY MISTRALAI GROWS FASTER THAN OPENAI/ANTHROPIC",
         "description": "Mistral achieved a 20x growth in its ARR over the past year. It is",
         "link": "https://productify.substack.com/p/why-mistralai-grows-faster-than-openaianthropic?utm_source=tldrai"
@@ -2978,6 +3753,11 @@
         "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/?utm_source=tldrai"
       },
       {
+        "title": "USEFUL MEMORIES BECOME FAULTY WHEN CONTINUOUSLY UPDATED BY LLMS",
+        "description": "Agent updates don't always make memories more useful. They can",
+        "link": "https://dylanzsz.github.io/faulty-memory/?utm_source=tldrai"
+      },
+      {
         "title": "THE ANTI-SINGULARITY",
         "description": "The singularity is a world where a single super-intelligent AI brings",
         "link": "https://www.lesswrong.com/posts/k3XHZ4DjykLSfsnks/the-anti-singularity?utm_source=tldrai"
@@ -2986,6 +3766,11 @@
         "title": "BUILD A REALTIME SPEECH TRANSLATION",
         "description": "OpenAI's engineering guide for building live speech translation",
         "link": "https://developers.openai.com/cookbook/examples/voice_solutions/realtime_translation_guide?utm_source=tldrai"
+      },
+      {
+        "title": "SFT, RL, AND ON-POLICY DISTILLATION THROUGH A DISTRIBUTIONAL LENS",
+        "description": "Different post-training methods like SFT, RL, and On-Policy",
+        "link": "https://nrehiew.github.io/blog/sft_rl_opd/?utm_source=tldrai"
       },
       {
         "title": "LOCALLY-RUNNABLE MODELS",
@@ -3001,6 +3786,11 @@
         "title": "EMERGENT MODULARITY IN MIXTURE-OF-EXPERTS MODELS",
         "description": "Allen AI released EMO, a mixture-of-experts model that learns modular",
         "link": "https://allenai.org/blog/emo?utm_source=tldrai"
+      },
+      {
+        "title": "META-META-PROMPTING: THE SECRET TO MAKING AI AGENTS WORK",
+        "description": "AI tools have become good enough to build real systems that compound.",
+        "link": "https://links.tldrnewsletter.com/3C2TE4"
       },
       {
         "title": "A RECENT EXPERIENCE WITH CHATGPT 5.5 PRO",
@@ -3033,9 +3823,19 @@
     "processed": 0,
     "articles": [
       {
+        "title": "FAKE OPENAI REPOSITORY ON HUGGING FACE PUSHES INFOSTEALER MALWARE",
+        "description": "A malicious Hugging Face repository, Open-OSS/privacy-filter,",
+        "link": "https://links.tldrnewsletter.com/k5pQ16"
+      },
+      {
         "title": "MICROSOFT'S KENYA DATA CENTER HITS A PAYMENT WALL",
         "description": "Microsoft and G42's planned $1B East Africa data center has stalled",
         "link": "https://www.thenews.com.pk/latest/1401893-microsoft-data-center-push-stalled-by-payment-issues-bloomberg-reports?utm_source=tldrit"
+      },
+      {
+        "title": "CISA TELLS CRITICAL INFRASTRUCTURE TO PREPARE FOR ISOLATION",
+        "description": "CISA's new CI Fortify guidance urges critical infrastructure",
+        "link": "https://www.cybersecuritydive.com/news/cisa-ci-fortify-isolation-recovery-guidance/819317/?utm_source=tldrit"
       },
       {
         "title": "TREND",
@@ -3051,6 +3851,11 @@
         "title": "EXPOSED AI SERVICES CREATE A NEW ATTACK SURFACE",
         "description": "Researchers scanned more than 1M exposed AI services and found weak",
         "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html?utm_source=tldrit"
+      },
+      {
+        "title": "SERVICENOW + NVIDIA BRING GOVERNANCE TO AUTONOMOUS AI AGENTS",
+        "description": "ServiceNow and NVIDIA unveiled “Project Arc,” an autonomous",
+        "link": "https://links.tldrnewsletter.com/500oeT"
       },
       {
         "title": "ANTHROPIC SIGNS $1.8B AKAMAI CLOUD DEAL",
@@ -3088,6 +3893,11 @@
     "processed": 0,
     "articles": [
       {
+        "title": "INSTAGRAM REDESIGNS IPAD APP TO WHAT IT ALWAYS SHOULD HAVE BEEN",
+        "description": "Instagram has redesigned its long-awaited iPad app to closely match",
+        "link": "https://9to5mac.com/2026/05/08/instagram-redesigns-ipad-app-to-what-it-always-should-have-been/?utm_source=tldrdesign"
+      },
+      {
         "title": "DID MICROSOFT JUST TEASE A NEW XBOX UI?",
         "description": "Microsoft showcased a more consistent Xbox UI design across consoles,",
         "link": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud?utm_source=tldrdesign"
@@ -3111,6 +3921,16 @@
         "title": "AI DESIGN HAS NO SOUL, BUT TYPOGRAPHY MAKES IT WHOLE",
         "description": "AI-generated designs often feel hollow and generic because they",
         "link": "https://pimpmytype.com/ai-design-has-no-soul-but-typography-makes-it-whole/?utm_source=tldrdesign"
+      },
+      {
+        "title": "AGENTIC DESIGN SYSTEM - FROM CHATBOT TO ORCHESTRATION",
+        "description": "Future-ready design systems are evolving from simple UI libraries",
+        "link": "https://learn.thedesignsystem.guide/p/agentic-design-system-from-chatbot?utm_source=tldrdesign"
+      },
+      {
+        "title": "IDEAS ARE DEAD. WHY EXECUTION MATTERS MORE FOR DESIGNERS IN 2026",
+        "description": "Ideas alone aren't enough for designers in 2026 — execution and the",
+        "link": "https://www.yankodesign.com/2026/05/03/ideas-are-dead-why-execution-matters-more-for-designers-in-2026/?utm_source=tldrdesign"
       },
       {
         "title": "THE 10 USABILITY HEURISTICS IN INFOGRAPHICS",
@@ -3143,9 +3963,19 @@
         "link": "https://tannerlinsley.com/posts/projecting-react?utm_source=tldrdev"
       },
       {
+        "title": "HOW LAKEBASE ARCHITECTURE DELIVERS 5X FASTER POSTGRES WRITES",
+        "description": "Lakebase architecture by Databricks achieves a five-fold increase in",
+        "link": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes?utm_source=tldrdev"
+      },
+      {
         "title": "THE ANATOMY OF AN AGENT HARNESS",
         "description": "An AI agent is defined as the functional combination of a core",
         "link": "https://www.langchain.com/blog/the-anatomy-of-an-agent-harness?utm_source=tldrdev"
+      },
+      {
+        "title": "SOFTWARE ENGINEERING MAY NO LONGER BE A LIFETIME CAREER",
+        "description": "Relying more on AI for coding tasks can decrease the long-term",
+        "link": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/?utm_source=tldrdev"
       },
       {
         "title": "I RETURNED TO AWS - AND WAS REMINDED HARD WHY I LEFT",
@@ -3153,9 +3983,19 @@
         "link": "https://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html?utm_source=tldrdev"
       },
       {
+        "title": "USING CLAUDE CODE: THE UNREASONABLE EFFECTIVENESS OF HTML",
+        "description": "Transitioning from Markdown to HTML allows AI agents to communicate",
+        "link": "https://links.tldrnewsletter.com/nRuXHc"
+      },
+      {
         "title": "THE UNWRITTEN LAWS OF SOFTWARE ENGINEERING",
         "description": "Hard-won software engineering rules tell us that when production",
         "link": "https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering?utm_source=tldrdev"
+      },
+      {
+        "title": "IDEMPOTENCY IS EASY UNTIL THE SECOND REQUEST IS DIFFERENT",
+        "description": "True idempotency goes beyond replaying responses and must address",
+        "link": "https://blog.dochia.dev/blog/idempotency/?utm_source=tldrdev"
       },
       {
         "title": "MYTHICAL MAN MONTH",
@@ -3198,9 +4038,19 @@
         "link": "https://www.hashicorp.com/en/blog/how-vault-secrets-operator-vso-automates-secret-management-for-enterprises-on-kub?utm_source=tldrdevops"
       },
       {
+        "title": "IDEMPOTENCY IS EASY UNTIL THE SECOND REQUEST IS DIFFERENT",
+        "description": "Idempotency is not solved by simply storing an idempotency key. The",
+        "link": "https://blog.dochia.dev/blog/idempotency/?utm_source=tldrdevops"
+      },
+      {
         "title": "YOU NEED AI THAT REDUCES MAINTENANCE COSTS",
         "description": "AI coding agents only create lasting productivity gains if they",
         "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs?utm_source=tldrdevops"
+      },
+      {
+        "title": "SCALING DATA AND AI WITH MANAGED SERVICE FOR APACHE AIRFLOW",
+        "description": "Managed Service for Apache Airflow introduces AI-driven orchestration",
+        "link": "https://cloud.google.com/blog/products/data-analytics/managed-apache-airflow-scaling-data-and-ai-workloads/?utm_source=tldrdevops"
       },
       {
         "title": "BOOTSTRAPPING FLUX WITH TERRAFORM, THE RIGHT WAY",
@@ -3233,6 +4083,11 @@
     "processed": 0,
     "articles": [
       {
+        "title": "META'S EMBRACE OF AI IS MAKING ITS EMPLOYEES MISERABLE",
+        "description": "Meta tracks its employees' keyboard inputs and mouse movements to",
+        "link": "https://links.tldrnewsletter.com/RsCB50"
+      },
+      {
         "title": "HOW A JOB AT OPENAI BECAME THE GREATEST LOTTERY TICKET OF THE AI BOOM",
         "description": "OpenAI recently allowed employees to sell up to $30 million worth of",
         "link": "https://links.tldrnewsletter.com/1T8urr"
@@ -3253,14 +4108,29 @@
         "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs?utm_source=tldrnewsletter"
       },
       {
+        "title": "USING CLAUDE CODE: THE UNREASONABLE EFFECTIVENESS OF HTML",
+        "description": "Markdown is the dominant file format used by agents, but it is a bit",
+        "link": "https://links.tldrnewsletter.com/WE7Zwm"
+      },
+      {
         "title": "LEARNING ON THE SHOP FLOOR",
         "description": "River is an AI agent that lives in Shopify's company Slack. It can",
         "link": "https://links.tldrnewsletter.com/gLGfJ1"
       },
       {
+        "title": "APPLE, INTEL HAVE REACHED PRELIMINARY CHIP-MAKING AGREEMENT",
+        "description": "Intel will start manufacturing some of the chips that power Apple",
+        "link": "https://links.tldrnewsletter.com/Jmu6Ru"
+      },
+      {
         "title": "AI IS BREAKING TWO VULNERABILITY CULTURES",
         "description": "AI's ability to find and fix bugs is breaking the way computer",
         "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "WE SEE SOMETHING THAT WORKS, AND THEN WE UNDERSTAND IT",
+        "description": "There are many jobs where you learn first and then apply, but in",
+        "link": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/?utm_source=tldrnewsletter"
       },
       {
         "title": "ESCAPE FROM AGENTIC LOOP",
@@ -3323,9 +4193,19 @@
         "link": "https://links.tldrnewsletter.com/kHPXCB"
       },
       {
+        "title": "FROM DATA CATALOGS TO GRAPHRAG-READY DATA PRODUCT PORTFOLIOS",
+        "description": "GraphRAG is pushing enterprise AI beyond vector search by using",
+        "link": "https://links.tldrnewsletter.com/ylktOh"
+      },
+      {
         "title": "HOW NETEASE GAMES CUT LLM COLD STARTS FROM 42 MINUTES TO 30 SECONDS",
         "description": "Serverless GPU autoscaling only works when model data access is",
         "link": "https://links.tldrnewsletter.com/ycFNEP"
+      },
+      {
+        "title": "AUTODATA: AN AUTOMATIC DATA SCIENTIST TO CREATE HIGH-QUALITY DATA",
+        "description": "Meta's Autodata uses a two-loop agentic workflow to generate,",
+        "link": "https://links.tldrnewsletter.com/em7WBn"
       },
       {
         "title": "TRANSDUCER) BINARY",
@@ -3343,9 +4223,29 @@
     "processed": 0,
     "articles": [
       {
+        "title": "CODEX NOW WORKS DIRECTLY IN CHROME ON MACOS AND WINDOWS",
+        "description": "OpenAI Codex now works directly in Chrome on macOS and Windows. It",
+        "link": "https://links.tldrnewsletter.com/ud1fbn"
+      },
+      {
         "title": "OPENAI RELEASED REALTIME AUDIO MODELS",
         "description": "OpenAI released a new set of real-time audio models, including",
         "link": "https://links.tldrnewsletter.com/o8DQTs"
+      },
+      {
+        "title": "META PREPARES HATCH AI AGENT WITH WAITLIST AND SOCIAL SKILLS",
+        "description": "Meta is developing Hatch, an AI agent positioned as a consumer-grade",
+        "link": "https://www.testingcatalog.com/meta-prepares-hatch-agent-under-waitlist-and-social-media-skills/?utm_source=tldrai"
+      },
+      {
+        "title": "IMPROVING TOKEN EFFICIENCY IN GITHUB AGENTIC WORKFLOWS",
+        "description": "GitHub Agent Workflows significantly improve repository hygiene and",
+        "link": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/?utm_source=tldrai"
+      },
+      {
+        "title": "THE SIX-HOUR CODEX RUN THAT SURVIVED A FIVE-HOUR PAUSE",
+        "description": "/goal is a headline feature that shipped in Codex on April 30 that",
+        "link": "https://tectontide.com/en/blog/codex-goal-six-hour-run/?utm_source=tldrai"
       },
       {
         "title": "GOOD QC FOR RL DATA",
@@ -3356,6 +4256,11 @@
         "title": "ACROSS FIELDS",
         "description": "AlphaEvolve is a Gemini-powered coding agent that can design advanced",
         "link": "https://deepmind.google/blog/alphaevolve-impact/?utm_source=tldrai"
+      },
+      {
+        "title": "BUILDING FAST & ACCURATE AGENTS WITH PRIME-RL POST TRAINING",
+        "description": "Ramp Sheets built Fast Ask to handle its spreadsheet agent's",
+        "link": "https://links.tldrnewsletter.com/59yuUD"
       },
       {
         "title": "META'S OPTIMIZED RECSYS INFERENCE",
@@ -3376,6 +4281,11 @@
         "title": "LONG AI SHORT AGI",
         "description": "Silicon Valley's narrative emphasizes AGI as the ultimate scarce",
         "link": "https://1984.substack.com/p/long-ai-short-agi?utm_source=tldrai"
+      },
+      {
+        "title": "GOOGLE DEEPMIND PARTNERS WITH EVE ONLINE FOR AI MODEL TESTING",
+        "description": "EVE Online is a uniquely rich environment for study, especially for",
+        "link": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/?utm_source=tldrai"
       },
       {
         "title": "TRUSTED CONTACT FOR CHATGPT",
@@ -3413,6 +4323,11 @@
         "link": "https://links.tldrnewsletter.com/n9H69M"
       },
       {
+        "title": "EXPLICIT VS. IMPLICIT CODE IN THE AGE OF CODING AGENTS",
+        "description": "Software development increasingly relies on implicit conventions, but",
+        "link": "https://www.lesecretairedefernand.co/en/tech/explicit-vs-implicit-in-the-age-of-intelligences/?utm_source=tldrit"
+      },
+      {
         "title": "AI CODING LOAD BREAKS GITHUB - WHY NOT OTHER VENDORS?",
         "description": "GitHub outages in early May were linked to a sharp rise in AI coding",
         "link": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/?utm_source=tldrit"
@@ -3446,6 +4361,11 @@
         "title": "MALICIOUS CODE SLIPPED THROUGH AI SKILL SCANNERS",
         "description": "A VentureBeat report says malicious code passed Anthropic Skill",
         "link": "https://venturebeat.com/security/anthropic-skill-scanners-passed-every-check-malicious-code-test-file?utm_source=tldrit"
+      },
+      {
+        "title": "SALESFORCE MARKETING CLOUD VULNERABILITY EXPOSES EMAIL DATA RISK",
+        "description": "Salesforce patched high-impact vulnerabilities in its Marketing Cloud",
+        "link": "https://gbhackers.com/salesforce-marketing-cloud-vulnerability/?utm_source=tldrit"
       },
       {
         "title": "HACKERS ARE HACKING OTHER HACKERS' VICTIMS",
@@ -3493,6 +4413,11 @@
         "link": "https://links.tldrnewsletter.com/kojWHX"
       },
       {
+        "title": "HOW UNIVERSAL APPEAL GETS DESIGNERS TO HIDE THEIR BEST SKILLS",
+        "description": "Designers often overwhelm themselves trying to master everything —",
+        "link": "https://thedesignersfieldguide.substack.com/p/how-universal-appeal-gets-designers?utm_source=tldrdesign"
+      },
+      {
         "title": "ST. AUGUSTINE AND AI'S FALSE PROMISE",
         "description": "AI systems are often presented as tools that can optimize decisions",
         "link": "https://links.tldrnewsletter.com/onCmoZ"
@@ -3516,6 +4441,11 @@
         "title": "JAZZ MUSIC",
         "description": "Designer Joshua Wolk created Train Jazz, an interactive website that",
         "link": "https://links.tldrnewsletter.com/h34LPs"
+      },
+      {
+        "title": "DISNEY AND PIXAR LOVE THIS LATTE ARTIST'S DELIGHTFUL ANIMATIONS",
+        "description": "London-based artist Hazel Zakariya creates animated latte art",
+        "link": "https://www.creativebloq.com/creative-inspiration/optical-illusions/from-hoppers-to-hello-kitty-and-severance-these-latte-art-animations-are-on-another-level?utm_source=tldrdesign"
       },
       {
         "title": "IOS 26.5 ADDS BEAUTIFUL WALLPAPERS FOR YOUR IPHONE, HERE'S WHAT'S NEW",
@@ -3568,6 +4498,11 @@
         "link": "https://jadjoubran.io/blog/web-platform-influenced-by-libraries?utm_source=tldrdev"
       },
       {
+        "title": "WHAT IS A STANDARD CONTAINER: DIVING INTO THE OCI RUNTIME SPEC",
+        "description": "The Open Container Initiative defines standard containers as",
+        "link": "https://labs.iximiuz.com/tutorials/oci-containers-explained?utm_source=tldrdev"
+      },
+      {
         "title": "OPEN WEB VS AI: WHAT CAN W3C DO?",
         "description": "A recent meeting at the W3C addressed growing threats to the open web",
         "link": "https://hidde.blog/web-ai-breakout/?utm_source=tldrdev"
@@ -3576,6 +4511,11 @@
         "title": "THE PHP LICENSE IS DEAD; LONG LIVE THE BSD 3-CLAUSE",
         "description": "The PHP project is retiring its long-standing, custom licenses in",
         "link": "https://fossforce.com/2026/05/the-php-license-is-dead-long-live-the-bsd-3-clause/?utm_source=tldrdev"
+      },
+      {
+        "title": "I SWITCHED FROM MAC TO A LENOVO CHROMEBOOK, AND YOU CAN TOO",
+        "description": "The Lenovo Chromebook Plus 14 is a great high-performance alternative",
+        "link": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html?utm_source=tldrdev"
       },
       {
         "title": "OURCAR: WHAT I LEARNED MAKING AN APP FOR MY FAMILY",
@@ -3628,6 +4568,11 @@
         "link": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/?utm_source=tldrdevops"
       },
       {
+        "title": "HOW LAKEBASE ARCHITECTURE DELIVERS 5X FASTER POSTGRES WRITES",
+        "description": "Neon eliminated a decade-old Postgres performance bottleneck by",
+        "link": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes?utm_source=tldrdevops"
+      },
+      {
         "title": "AZURE DEVOPS MCP SERVER APRIL UPDATE",
         "description": "Azure DevOps MCP Servers update introduces WIQL-based work item",
         "link": "https://devblogs.microsoft.com/devops/azure-devops-mcp-server-april-update/?utm_source=tldrdevops"
@@ -3636,6 +4581,11 @@
         "title": "KUBERNETES V1.36: SERVER-SIDE SHARDED LIST AND WATCH",
         "description": "Kubernetes v1.36 introduced server-side sharded list and watch as an",
         "link": "https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch/?utm_source=tldrdevops"
+      },
+      {
+        "title": "KUBERNETES V1.36: DECLARATIVE VALIDATION GRADUATES TO GA",
+        "description": "Kubernetes v1.36 introduced Declarative Validation for native types",
+        "link": "https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/?utm_source=tldrdevops"
       }
     ]
   },
@@ -3663,6 +4613,26 @@
         "link": "https://links.tldrnewsletter.com/JBwtK1"
       },
       {
+        "title": "THE AI REVIVAL OF THE THREE MILE ISLAND NUCLEAR PLANT",
+        "description": "The buildout of AI infrastructure in the US has transformed the",
+        "link": "https://links.tldrnewsletter.com/OL4s00"
+      },
+      {
+        "title": "BEHIND THE SCENES HARDENING FIREFOX WITH CLAUDE MYTHOS PREVIEW",
+        "description": "Mozilla recently announced that it had identified and fixed an",
+        "link": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "OPENAI LAUNCHES NEW REALTIME VOICE AND TRANSLATION AI MODELS",
+        "description": "OpenAI's API now supports live voice agents, instant translation, and",
+        "link": "https://www.testingcatalog.com/openai-launches-new-realtime-voice-and-translation-ai-models/?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "CLOUDFLARE TO SLASH 1,100 JOBS DUE TO AI-DRIVEN RESTRUCTURING PLAN",
+        "description": "Cloudflare plans to slash 1,100 jobs as part of a restructuring plan",
+        "link": "https://links.tldrnewsletter.com/U4nXA3"
+      },
+      {
         "title": "ELON MUSK TRIED TO HIRE OPENAI FOUNDERS TO START AI UNIT INSIDE TESLA",
         "description": "OpenAI claims that Elon Musk was always happy to commercialize the",
         "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/?utm_source=tldrnewsletter"
@@ -3673,9 +4643,19 @@
         "link": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/?utm_source=tldrnewsletter"
       },
       {
+        "title": "CODEX NOW WORKS DIRECTLY IN CHROME ON MACOS AND WINDOWS",
+        "description": "The agent can work in parallel across tabs in the background without",
+        "link": "https://links.tldrnewsletter.com/IpIqiY"
+      },
+      {
         "title": "THE AGENT PRINCIPAL-AGENT PROBLEM",
         "description": "'Contributors' submitting slop PRs is an unmanageable disaster -",
         "link": "https://crawshaw.io/blog/agent-principal-agent?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "TOKENMAXXING, PROMOMAXXING, AND MISALIGNED INCENTIVES IN TECH",
+        "description": "When a measure becomes a target, it ceases to be a good measure.",
+        "link": "https://read.engineerscodex.com/p/tokenmaxxing-promomaxxing-and-misaligned?utm_source=tldrnewsletter"
       },
       {
         "title": "MARKETS IN EVERYTHING?",
@@ -3697,6 +4677,11 @@
     "received_at": "2026-05-16 09:45:34",
     "processed": 0,
     "articles": [
+      {
+        "title": "HIGHER USAGE LIMITS FOR CLAUDE AND A COMPUTE DEAL WITH SPACEX",
+        "description": "Anthropic increased usage limits for Claude through a new compute",
+        "link": "https://www.anthropic.com/news/higher-limits-spacex?utm_source=tldrai"
+      },
       {
         "title": "CLAUDE ADDS SELF-IMPROVING AGENTS",
         "description": "Claude Managed Agents launched features like dreaming, outcomes, and",
@@ -3753,9 +4738,19 @@
         "link": "https://weightythoughts.com/p/world-models-can-change-everything?utm_source=tldrai"
       },
       {
+        "title": "SUPERCOMPUTER NETWORKING TO ACCELERATE LARGE SCALE AI TRAINING",
+        "description": "Frontier model training depends on reliable supercomputer networks",
+        "link": "https://links.tldrnewsletter.com/gT9nzP"
+      },
+      {
         "title": "ALL THE DEMONS HIDING IN YOUR AIS… RANKED!",
         "description": "Sometimes, stable, self-reinforcing behavioral states emerge in large",
         "link": "https://drtompollak.substack.com/p/all-the-demons-hiding-in-your-ais?utm_source=tldrai"
+      },
+      {
+        "title": "THE PROBLEM WITH “MATHEMATICALLY PROVEN” CLAIMS ABOUT LLMS",
+        "description": "Systems keep getting better, and theorems keep arriving to explain",
+        "link": "https://webdirections.org/blog/the-problem-with-mathematically-proven-claims-about-llms/?utm_source=tldrai"
       },
       {
         "title": "THE APRIL EVERY AI PLAN BROKE",
@@ -3771,6 +4766,11 @@
         "title": "INTRODUCING HARVEY'S LEGAL AGENT BENCHMARK",
         "description": "Harvey's Legal Agent Benchmark (LAB) is an open-source tool for",
         "link": "https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark?utm_source=tldrai"
+      },
+      {
+        "title": "GOOGLE TESTS SCREEN SHARING AND CUSTOM AGENTS IN ANTIGRAVITY",
+        "description": "Google is testing screen sharing and custom agents in its Antigravity",
+        "link": "https://www.testingcatalog.com/google-tests-screen-sharing-and-custom-agents-in-antigravity-ide/?utm_source=tldrai"
       }
     ]
   },
@@ -3808,6 +4808,11 @@
         "link": "https://www.cio.com/article/4167420/i-gave-our-developers-an-ai-coding-assistant-the-security-team-nearly-mutinied.html?utm_source=tldrit"
       },
       {
+        "title": "SERVICENOW CLEARS AGENTS FOR LANDING WITH NEW AI CONTROL TOWER",
+        "description": "ServiceNow's updated AI Control Tower provides enterprise-wide",
+        "link": "https://links.tldrnewsletter.com/xPSA6q"
+      },
+      {
         "title": "MICROSOFT AGENT 365 GOES GA",
         "description": "Microsoft made Agent 365 generally available and added previews for",
         "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/?utm_source=tldrit"
@@ -3821,6 +4826,11 @@
         "title": "UNAUTHORIZED ACCESS",
         "description": "Persistent OAuth tokens pose significant risks as attackers bypass",
         "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html?utm_source=tldrit"
+      },
+      {
+        "title": "VIBE CODING OR SPEC-DRIVEN DEVELOPMENT? HOW TO CHOOSE",
+        "description": "Vibe coding enables rapid prototyping through iterative prompts,",
+        "link": "https://www.infoworld.com/article/4166817/vibe-coding-or-spec-driven-development-how-to-choose.html?utm_source=tldrit"
       },
       {
         "title": "DAEMON TOOLS HIT BY SUPPLY CHAIN ATTACK",
@@ -3841,6 +4851,11 @@
         "title": "SEARCH DRIVES ADVERTISING GROWTH",
         "description": "Pinterest achieved its first billion-dollar quarter with $1.008",
         "link": "https://thenextweb.com/news/pinterest-billion-revenue-visual-search-advertising?utm_source=tldrdesign"
+      },
+      {
+        "title": "CELEBRATE AMERICA'S 250TH WITH GOOGLE ARTS AND CULTURE",
+        "description": "Google Arts & Culture is partnering with the White House and national",
+        "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/celebrating-america/?utm_source=tldrdesign"
       },
       {
         "title": "CREATE, AND SHARE INFORMATION",
@@ -3943,6 +4958,11 @@
         "link": "https://matduggan.com/if-i-could-make-my-own-github/?utm_source=tldrdev"
       },
       {
+        "title": "4 BEHAVIORS THAT MAKE YOU LOOK JUNIOR (NO MATTER YOUR TITLE)",
+        "description": "Getting promoted in tech depends largely on maintaining emotional",
+        "link": "https://alifeengineered.substack.com/p/4-behaviors-that-make-you-look-junior?utm_source=tldrdev"
+      },
+      {
         "title": "RECAPTCHA",
         "description": "Google Cloud Fraud Defense is the next evolution of reCAPTCHA,",
         "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/?utm_source=tldrdev"
@@ -3983,6 +5003,11 @@
         "link": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/?utm_source=tldrnewsletter"
       },
       {
+        "title": "HUMANOID ROBOTS TO DRIVE NEXT LEG OF CHINA EXPORT DOMINANCE",
+        "description": "China's early lead in humanoid robots will help power its next phase",
+        "link": "https://links.tldrnewsletter.com/8dD8Nk"
+      },
+      {
         "title": "DESIGN FROM THE INSIDE",
         "description": "Engineers at high-growth startups can build so fast and independently",
         "link": "https://mattstromawn.com/writing/design-from-the-inside/?utm_source=tldrnewsletter"
@@ -3991,6 +5016,16 @@
         "title": "TO REDIS.",
         "description": "Redis has been missing a real indexed data structure for situations",
         "link": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "ANTHROPIC'S CEO SAYS IT COULD GROW BY 80 TIMES THIS YEAR",
+        "description": "Anthropic has reached a growth rate that could make it 80 times as",
+        "link": "https://links.tldrnewsletter.com/fTtMHD"
+      },
+      {
+        "title": "OPEN WEIGHTS ARE QUIETLY CLOSING UP - AND THAT'S A PROBLEM",
+        "description": "Open weights models allow anyone to run the model on their own",
+        "link": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=tldrnewsletter"
       },
       {
         "title": "SPACEX IPO GIVES MUSK UNCHECKED POWER AND FORBIDS INVESTOR LAWSUITS",
@@ -4058,9 +5093,34 @@
         "link": "https://softwaredoug.com/blog/2026/04/28/search-apis-replaced-by-agents?utm_source=tldrdata"
       },
       {
+        "title": "BEYOND THE HYPE: THE ENTERPRISE AI ARCHITECTURE WE ACTUALLY NEED",
+        "description": "Enterprise AI is moving toward a federated stack: native AI inside",
+        "link": "https://www.cio.com/article/4166033/beyond-the-hype-the-enterprise-ai-architecture-we-actually-need.html?utm_source=tldrdata"
+      },
+      {
+        "title": "WE'RE MISSING DATA: THE OTHER HALF OF AI TRANSFORMATION",
+        "description": "AI in data and engineering orgs is overfocused on tools and",
+        "link": "https://ericdataproduct.substack.com/p/were-missing-data-the-other-half?utm_source=tldrdata"
+      },
+      {
+        "title": "S3 IS THE PERFECT PLACE TO STORE DATA, UNTIL YOU TRY TO SEARCH IT",
+        "description": "Firn is an open-source API for fast vector and full-text search on",
+        "link": "https://gordonmurray.ie/data/2026/05/02/s3-is-the-perfect-place-to-store-data-until-you-try-to-search-it.html?utm_source=tldrdata"
+      },
+      {
         "title": "PRACTICES",
         "description": "When integrating LLMs with Apache Kafka, use Kafka strictly as a",
         "link": "https://www.confluent.io/blog/ai-kafka-integration-patterns/?utm_source=tldrdata"
+      },
+      {
+        "title": "HOW WE ACCELERATED TRANSPILATION BY COMPILING SQLGLOT WITH MYPYC",
+        "description": "Fivetran dramatically accelerated SQLGlot (the popular pure-Python",
+        "link": "https://www.fivetran.com/blog/how-we-accelerated-transpilation-by-compiling-sqlglot-with-mypyc?utm_source=tldrdata"
+      },
+      {
+        "title": "IMPLEMENTING STATISTICAL GUARDRAILS FOR NON-DETERMINISTIC AGENTS",
+        "description": "Statistical guardrails, like semantic drift detection using",
+        "link": "https://links.tldrnewsletter.com/WRLwfT"
       },
       {
         "title": "REDIS ARRAY TYPE: SHORT STORY OF A LONG DEVELOPMENT",
@@ -4071,6 +5131,11 @@
         "title": "SAP TO ACQUIRE DATA LAKEHOUSE VENDOR DREMIO",
         "description": "SAP's Dremio acquisition is a pragmatic bet on AI-ready enterprise",
         "link": "https://www.infoworld.com/article/4166900/sap-to-acquire-data-lakehouse-vendor-dremio-2.html?utm_source=tldrdata"
+      },
+      {
+        "title": "VALIDATE SMARTER AT THE ROW LEVEL: A FOUR-LAYER APPROACH",
+        "description": "Practical blueprint for selectively enforcing schema, format,",
+        "link": "https://links.tldrnewsletter.com/9FR73d"
       }
     ]
   },
@@ -4101,6 +5166,11 @@
         "title": "IN SEARCH OF WASTED BITS: HOW MUCH INFORMATION DO LLM WEIGHTS CARRY?",
         "description": "A lot of LLM inference is transferring data from one place to another",
         "link": "https://fergusfinn.com/blog/weight-entropy/?utm_source=tldrai"
+      },
+      {
+        "title": "COMPUTER USE IS 45X MORE EXPENSIVE THAN STRUCTURED APIS",
+        "description": "Vision agents are the default for operating web apps that don't",
+        "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/?utm_source=tldrai"
       },
       {
         "title": "DRAFTERS",
@@ -4143,6 +5213,11 @@
         "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/?utm_source=tldrai"
       },
       {
+        "title": "OPENAI RELEASES A SEPARATE CHATGPT IOS APP FOR ENTERPRISE USERS",
+        "description": "OpenAI has released a new iOS app created specifically for school and",
+        "link": "https://9to5mac.com/2026/05/04/openai-releases-a-separate-chatgpt-ios-app-for-schools-and-work-organizations/?utm_source=tldrai"
+      },
+      {
         "title": "AGENTS FOR FINANCIAL SERVICES",
         "description": "Anthropic has released 10 ready-to-run templates for the most",
         "link": "https://www.anthropic.com/news/finance-agents?utm_source=tldrai"
@@ -4168,14 +5243,29 @@
         "link": "https://www.theregister.com/2026/05/05/servicenow_clears_agents_for_landing/?utm_source=tldrit"
       },
       {
+        "title": "HACKERS STEAL STUDENT DATA ON CANVAS IN INSTRUCTURE BREACH",
+        "description": "Hackers stole student names, email addresses, ID numbers, and private",
+        "link": "https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/?utm_source=tldrit"
+      },
+      {
         "title": "DEPLOYMENT",
         "description": "Anthropic is launching a $1.5 billion venture backed by Goldman",
         "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html?utm_source=tldrit"
       },
       {
+        "title": "THE DATA ON JIRA VS LINEAR: WHO'S WINNING NEW CUSTOMERS?",
+        "description": "Linear is rapidly closing the gap with Jira, with new customer",
+        "link": "https://bloomberry.com/blog/the-data-on-jira-vs-linear-whos-winning-new-customers/?utm_source=tldrit"
+      },
+      {
         "title": "THE AI CORRECTION WILL NOT BE EVENLY DISTRIBUTED",
         "description": "Not all AI revenue is created equal. While OpenAI may lead in",
         "link": "https://www.computerweekly.com/news/366642660/The-AI-Correction-Will-Not-Be-Evenly-Distributed?utm_source=tldrit"
+      },
+      {
+        "title": "AIRBYTE LAUNCHES CONTEXT LAYER FOR ENTERPRISE AI AGENTS",
+        "description": "Airbyte Agents is a new service that pre-indexes enterprise data into",
+        "link": "https://thenewstack.io/airbyte-agents-context-store/?utm_source=tldrit"
       },
       {
         "title": "SYSTEM",
@@ -4223,6 +5313,16 @@
         "link": "https://9to5google.com/2026/05/03/gemini-full-redesign/?utm_source=tldrdesign"
       },
       {
+        "title": "IMAGE AI MODELS NOW DRIVE APP GROWTH, BEATING CHATBOT UPGRADES",
+        "description": "Image AI models now drive 6.5x more app downloads than traditional",
+        "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/?utm_source=tldrdesign"
+      },
+      {
+        "title": "VIDEO OFFERS CLEAREST LOOK YET AT FOLDABLE IPHONE ULTRA DUMMY UNIT",
+        "description": "Unbox Therapy released a detailed hands-on video of a dummy unit",
+        "link": "https://9to5mac.com/2026/05/04/video-offers-clearest-look-yet-at-foldable-iphone-ultra-dummy-unit/?utm_source=tldrdesign"
+      },
+      {
         "title": "FINALLY, THE HANDOFF IS DEAD",
         "description": "The traditional designer/developer handoff process creates barriers",
         "link": "https://www.lukew.com/ff/entry.asp?2150&utm_source=tldrdesign"
@@ -4248,6 +5348,11 @@
         "link": "https://piccalil.li/blog/three-stoic-principles-for-better-web-accessibility/?utm_source=tldrdesign"
       },
       {
+        "title": "TOFOO REVEALS FIRST MAJOR PACKAGE REDESIGN IN OVER A DECADE",
+        "description": "The Tofoo Co has introduced its first major packaging redesign in",
+        "link": "https://links.tldrnewsletter.com/75V31B"
+      },
+      {
         "title": "THE HUMAN CREATIVITY BENCHMARK",
         "description": "Most AI benchmarks treat taste-based disagreement as noise to be",
         "link": "https://contralabs.com/research/human-creativity-benchmark?utm_source=tldrdesign"
@@ -4256,6 +5361,11 @@
         "title": "AI",
         "description": "Comic artists at the Lake Como Comic Art Festival expressed concerns",
         "link": "https://www.creativebloq.com/art/were-not-machines-were-people-comic-artists-speak-out-on-ai?utm_source=tldrdesign"
+      },
+      {
+        "title": "PIXAR'S NEW BUG'S LIFE POSTER JUST HIT ME RIGHT IN THE FEELS",
+        "description": "A Bug's Life inspired a charming Pixar infographic styled like a",
+        "link": "https://www.creativebloq.com/design/poster-design/pixars-new-bugs-life-poster-is-a-welcome-hit-of-nostalgia?utm_source=tldrdesign"
       }
     ]
   },
@@ -4278,9 +5388,19 @@
         "link": "https://links.tldrnewsletter.com/Ovfv9R"
       },
       {
+        "title": "COMPUTER USE IS 45X MORE EXPENSIVE THAN STRUCTURED APIS",
+        "description": "A benchmark study shows that AI agents using computer vision to",
+        "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/?utm_source=tldrdev"
+      },
+      {
         "title": "AI DIDN'T DELETE YOUR DATABASE, YOU DID",
         "description": "The accidental deletion of a production database by an AI agent,",
         "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?utm_source=tldrdev"
+      },
+      {
+        "title": "WHEN EVERYONE HAS AI AND THE COMPANY STILL LEARNS NOTHING",
+        "description": "While many organizations gain individual productivity from AI",
+        "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/?utm_source=tldrdev"
       },
       {
         "title": "BUILDING A LEANER AND FASTER COINBASE",
@@ -4333,6 +5453,11 @@
     "processed": 0,
     "articles": [
       {
+        "title": "AMAZON CLOUDFRONT NOW SUPPORTS INVALIDATION BY CACHE TAG",
+        "description": "Amazon CloudFront now supports cache tag invalidation, letting",
+        "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/?utm_source=tldrdevops"
+      },
+      {
         "title": "DISRUPTIONS",
         "description": "The first quarter of 2026 saw widespread global Internet disruptions",
         "link": "https://blog.cloudflare.com/q1-2026-internet-disruption-summary/?utm_source=tldrdevops"
@@ -4368,6 +5493,11 @@
         "link": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/?utm_source=tldrdevops"
       },
       {
+        "title": "HOW TO SECURE WORKLOADS, CONTAINERS, AND KUBERNETES THE RIGHT WAY",
+        "description": "Cloud-native container and Kubernetes environments require",
+        "link": "https://webflow.sysdig.com/blog/how-to-secure-workloads-containers-and-kubernetes-the-right-way?utm_source=tldrdevops"
+      },
+      {
         "title": "THE VI FAMILY",
         "description": "vi-style editors remain popular because, despite their age and steep",
         "link": "https://lpar.ath0.com/posts/2026/05/the-vi-family/?utm_source=tldrdevops"
@@ -4393,6 +5523,11 @@
         "link": "https://www.macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027/?utm_source=tldrnewsletter"
       },
       {
+        "title": "BLUE ORIGIN MOON LANDER COMPLETES TESTING AT NASA VACUUM CHAMBER",
+        "description": "Endurance is an uncrewed lander funded by Blue Origin to advance",
+        "link": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/?utm_source=tldrnewsletter"
+      },
+      {
         "title": "I'M SCARED ABOUT BIOLOGICAL COMPUTING",
         "description": "A few months ago, a company released a video showing how it grew",
         "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing?utm_source=tldrnewsletter"
@@ -4408,14 +5543,34 @@
         "link": "https://eugeneyan.com//writing/working-with-ai/?utm_source=tldrnewsletter"
       },
       {
+        "title": "THIS IS AN EMAIL I SENT EARLIER TODAY TO ALL EMPLOYEES AT COINBASE",
+        "description": "Coinbase is firing around 14% of its employees. While the company is",
+        "link": "https://links.tldrnewsletter.com/Ad9djt"
+      },
+      {
         "title": "COGNITIVE SURRENDER",
         "description": "Cognitive surrender is when AI output quietly becomes your output and",
         "link": "https://addyosmani.com/blog/cognitive-surrender/?utm_source=tldrnewsletter"
       },
       {
+        "title": "OPENAI LAUNCHES GPT-5.5 INSTANT AS NEW CHATGPT DEFAULT",
+        "description": "The new Instant model is designed to produce clearer, shorter, and",
+        "link": "https://www.testingcatalog.com/openai-launches-gpt-5-5-instant-as-new-chatgpt-default/?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "PROGRAMMING IN 2026: EXCITEMENT, DREAD, AND THE COMING WAVE",
+        "description": "A big part of software engineering is now communicating with an alien",
+        "link": "https://amontalenti.com/2026/04/23/excitement-and-dread?utm_source=tldrnewsletter"
+      },
+      {
         "title": "DESIGNING THE AI-NATIVE ENGINEERING ORGANIZATION",
         "description": "This post contains a lightly edited excerpt from a panel discussion",
         "link": "https://newsletter.getdx.com/p/designing-the-ai-native-engineering?utm_source=tldrnewsletter"
+      },
+      {
+        "title": "WHEN EVERYONE HAS AI AND THE COMPANY STILL LEARNS NOTHING",
+        "description": "Access to frontier intelligence can be rented, but operational",
+        "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/?utm_source=tldrnewsletter"
       },
       {
         "title": "AMAZON'S DURABILITY",
@@ -4446,6 +5601,11 @@
         "title": "ANTHROPIC AND OPENAI LAUNCH ENTERPRISE AI VENTURES",
         "description": "Anthropic and OpenAI both announced separate enterprise AI ventures",
         "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/?utm_source=tldrai"
+      },
+      {
+        "title": "ANTHROPIC IS WORKING ON ORBIT, ITS UPCOMING PROACTIVE ASSISTANT",
+        "description": "Orbit is a briefing and insights system in Claude and Claude Code",
+        "link": "https://www.testingcatalog.com/anthropic-is-working-on-orbit-its-upcoming-proactive-assistant/?utm_source=tldrai"
       },
       {
         "title": "GPT-5.5 PRICE INCREASE: WHAT IT ACTUALLY COSTS",
@@ -4491,6 +5651,16 @@
         "title": "POWERING THE INFERENCE ERA: INSIDE THE DIGITALOCEAN AI-NATIVE CLOUD",
         "description": "DigitalOcean AI-Native Cloud is a purpose-built platform for the",
         "link": "https://www.digitalocean.com/blog/powering-the-inference-era?utm_source=tldrai"
+      },
+      {
+        "title": "WHITE HOUSE CONSIDERS VETTING AI MODELS BEFORE THEY ARE RELEASED",
+        "description": "The Trump administration is discussing a potential executive order to",
+        "link": "https://links.tldrnewsletter.com/gghEeb"
+      },
+      {
+        "title": "END-TO-END TOKENIZER TRAINING FOR AUTOREGRESSIVE IMAGES",
+        "description": "An end-to-end pipeline jointly optimized image tokenization and",
+        "link": "https://arxiv.org/abs/2605.00503?utm_source=tldrai"
       }
     ]
   },
@@ -4508,6 +5678,16 @@
         "link": "https://www.networkworld.com/article/4166695/cisco-grabs-astrix-to-secure-ai-agents.html?utm_source=tldrit"
       },
       {
+        "title": "GOOGLE LAUNCHES AI CONTROL CENTER FOR WORKSPACE AGENT ACCESS",
+        "description": "Google launched an AI Control Center for Google Workspace that gives",
+        "link": "https://workspaceupdates.googleblog.com/2026/05/securely-manage-AI-and-agent-access-to-Workspace-data-with-the-AI-control-center.html?utm_source=tldrit"
+      },
+      {
+        "title": "SMALL LANGUAGE MODELS ARE RESHAPING ENTERPRISE AI ARCHITECTURE",
+        "description": "Enterprises are increasingly routing routine tasks to smaller,",
+        "link": "https://www.infoworld.com/article/4160404/small-language-models-rethinking-enterprise-ai-architecture.html?utm_source=tldrit"
+      },
+      {
         "title": "REAL GAPS",
         "description": "Anthropic's heavy use of AI-generated code and its willingness to",
         "link": "https://www.cio.com/article/4166029/the-570k-canary-what-ai-coding-agents-reveal-about-enterprise-ais-real-gaps.html?utm_source=tldrit"
@@ -4521,6 +5701,16 @@
         "title": "MODERNIZATION",
         "description": "IBM and Oracle Corporation expanded their long-running partnership",
         "link": "https://newsroom.ibm.com/blog-ibm-and-oracle-expand-partnership-to-help-organizations-modernize-with-ai-and-cloud?utm_source=tldrit"
+      },
+      {
+        "title": "STARLINGX 12.0 EXPANDS MIXED-HARDWARE EDGE DEPLOYMENTS",
+        "description": "OpenInfra Foundation's StarlingX 12.0 adds partial precision timing",
+        "link": "https://www.networkworld.com/article/4166545/starlingx-12-0-is-right-on-time-for-mixed-hardware-edge-deployments.html?utm_source=tldrit"
+      },
+      {
+        "title": "AWS CEO SAYS SAAS ISN'T DEAD, IT'S GETTING REBUILT WITH AI",
+        "description": "AWS CEO Matt Garman pushed back on SaaSpocalypse narratives, arguing",
+        "link": "https://www.itpro.com/software/aws-ceo-matt-garman-amazon-quick-software-as-a-service?utm_source=tldrit"
       },
       {
         "title": "CISCO GIVES ITS AI ASSISTANT A STAR WARS MAKEOVER",
