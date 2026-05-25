@@ -41,7 +41,7 @@
       <div v-if="filteredNews.length" class="news-list">
         <div v-for="item in filteredNews" :key="item.id" class="news-date-group">
           <div class="date-separator">
-            {{ formatDate(item.email_date) }}
+            {{ item.date }}
           </div>
           <div class="articles-grid">
             <a 

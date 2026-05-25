@@ -13,7 +13,7 @@ def clean_sender(sender):
     return sender.split('<')[0].strip()
 
 def to_title_case(text):
-    # Convert ALL CAPS to title case
+    # Convert ALL CAPS to title case, but only if it's truly all uppercase
     if text.isupper():
         return text.capitalize()
     return text
@@ -34,8 +34,8 @@ def parse_content(content):
     sections = re.split(r'\n\s*([🚀💻🧠🎁⚡\s]+)\s*\n\s*([A-Z\s&]+)\n', content)
     
     # Robust article pattern
-    # The title is typically the first line.
-    # We look for the pattern: TITLE (X MIN READ) [ID] or TITLE (SPONSOR) [ID]
+    # Titles are usually ALL CAPS if they follow the standard TLDR format.
+    # We match lines that end with (X MIN READ) [ID] or (SPONSOR) [ID]
     article_pattern = re.compile(
         r'^([^\n]+?)\s*' # Title
         r'(?:\(\d+\s*(?:MINUTE|MIN)\s*READ\)|(?:\(SPONSOR\)))\s*' # Marker
@@ -69,11 +69,6 @@ def parse_content(content):
                 end_idx = len(section_text)
                 
             desc = section_text[start_idx:end_idx].strip()
-            
-            # IMPORTANT: Clean up description if it contains subsequent articles 
-            # (happens if the regex missed some articles but captured them in description)
-            # Since the regex is now strict on " ( la min read) [id]", we should use that 
-            # to trim descriptions further if they are too long or contain markers.
             
             # Remove trailing noise from the end of a section
             noise_markers = ["Love TLDR?", "Want to advertise", "Want to work at TLDR?"]
