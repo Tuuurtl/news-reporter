@@ -112,7 +112,7 @@ const filteredNews = computed(() => {
         : item.articles
     }))
     .filter(item => item.articles.length > 0)
-    .sort((a, b) => new Date(b.email_date) - new Date(a.email_date));
+    .sort((a, b) => new Date(b.date) - new Date(a.date));
 });
 
 function formatDate(dateStr) {
