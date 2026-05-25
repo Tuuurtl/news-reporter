@@ -31,14 +31,14 @@ def parse_content(content):
             links_map[idx] = url
 
     # 2. Split content by categories
+    # We look for lines that start with an emoji and then a header
     sections = re.split(r'\n\s*([🚀💻🧠🎁⚡\s]+)\s*\n\s*([A-Z\s&]+)\n', content)
     
     # Robust article pattern
-    # Titles are usually ALL CAPS if they follow the standard TLDR format.
-    # We match lines that end with (X MIN READ) [ID] or (SPONSOR) [ID]
+    # Match titles that are usually isolated on their own line and end with Marker [ID]
     article_pattern = re.compile(
-        r'^([^\n]+?)\s*' # Title
-        r'(?:\(\d+\s*(?:MINUTE|MIN)\s*READ\)|(?:\(SPONSOR\)))\s*' # Marker
+        r'^([^\\n]+?)\s*' # Title
+        r'(?:\(\d+\s*(?:MINUTE|MIN)\s*READ\)|(?:\(SPONSOR\)))\s*' # Marker (MUST be there)
         r'\[(\d+)\]\s*$', # Link ID
         re.MULTILINE | re.IGNORECASE
     )
@@ -60,7 +60,10 @@ def parse_content(content):
             link_id = match.group(2)
             
             # Description starts AFTER the line with the title/link
-            start_idx = match.end() + 1 
+            # We need to find the actual newline after the match
+            start_idx = section_text.find('\n', match.end()) + 1
+            if start_idx == 0: # No newline found
+                start_idx = match.end()
             
             # Description ends at the start of the next match or the end of the section
             if i + 1 < len(matches):
@@ -70,13 +73,13 @@ def parse_content(content):
                 
             desc = section_text[start_idx:end_idx].strip()
             
-            # Remove trailing noise from the end of a section
+            # Clean up description: remove trailing empty lines and common footer noise
             noise_markers = ["Love TLDR?", "Want to advertise", "Want to work at TLDR?"]
             for marker in noise_markers:
                 if marker in desc:
                     desc = desc.split(marker)[0].strip()
-
-            # Filtering noise in titles
+            
+            # Basic noise filtering for titles
             if any(noise in title.lower() for noise in ["love tldr", "advertise", "work at tldr", "apply here", "referral"]):
                 continue
             
