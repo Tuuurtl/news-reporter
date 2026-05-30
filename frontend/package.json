@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "update-data": "python3 ../scripts/extract_news.py && cp ../news_structured.json public/news_structured.json",
+    "deploy": "npm run build && cp ../news_structured.json dist/news_structured.json && npx gh-pages -d dist"
   },
   "dependencies": {
     "vue": "^3.4.0"
