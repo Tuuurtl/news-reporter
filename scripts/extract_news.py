@@ -13,7 +13,6 @@ def clean_sender(sender):
     return sender.split('<')[0].strip()
 
 def to_title_case(text):
-    # Convert ALL CAPS to title case, but only if it's truly all uppercase
     if text.isupper():
         return text.capitalize()
     return text
@@ -31,18 +30,8 @@ def parse_content(content):
             links_map[idx] = url
 
     # 2. Split content by categories
-    # We look for lines that start with an emoji and then a header
     sections = re.split(r'\n\s*([🚀💻🧠🎁⚡\s]+)\s*\n\s*([A-Z\s&]+)\n', content)
     
-    # Robust article pattern
-    # Match titles that are usually isolated on their own line and end with Marker [ID]
-    article_pattern = re.compile(
-        r'^([^\\n]+?)\s*' # Title
-        r'(?:\(\d+\s*(?:MINUTE|MIN)\s*READ\)|(?:\(SPONSOR\)))\s*' # Marker (MUST be there)
-        r'\[(\d+)\]\s*$', # Link ID
-        re.MULTILINE | re.IGNORECASE
-    )
-
     if len(sections) < 3:
         processing_units = [("General", content)]
     else:
@@ -52,6 +41,13 @@ def parse_content(content):
             section_text = sections[i+2]
             processing_units.append((category_name, section_text))
 
+    # IMPROVED REGEX from skill & tests
+    # Matches: Title (X MIN READ) [ID] or Title (Sponsor) [ID]
+    article_pattern = re.compile(
+        r'^(.+?)\s*(?:\(\d+\s*(?:MINUTE|MIN)\s*READ\)|(?i:\(sponsor\)|sponsor))\s*\[(\d+)\]',
+        re.MULTILINE
+    )
+
     for category_name, section_text in processing_units:
         matches = list(article_pattern.finditer(section_text))
         
@@ -60,12 +56,12 @@ def parse_content(content):
             link_id = match.group(2)
             
             # Description starts AFTER the line with the title/link
-            # We need to find the actual newline after the match
+            # Find the first newline after the current match end
             start_idx = section_text.find('\n', match.end()) + 1
-            if start_idx == 0: # No newline found
+            if start_idx == 0: # No newline found (shouldn't happen with MULTILINE)
                 start_idx = match.end()
             
-            # Description ends at the start of the next match or the end of the section
+            # Find the end of description: either the next match or the end of the section
             if i + 1 < len(matches):
                 end_idx = matches[i+1].start()
             else:
@@ -73,13 +69,13 @@ def parse_content(content):
                 
             desc = section_text[start_idx:end_idx].strip()
             
-            # Clean up description: remove trailing empty lines and common footer noise
+            # Clean up description boilerplate
             noise_markers = ["Love TLDR?", "Want to advertise", "Want to work at TLDR?"]
             for marker in noise_markers:
                 if marker in desc:
                     desc = desc.split(marker)[0].strip()
             
-            # Basic noise filtering for titles
+            # Filter out noise titles
             if any(noise in title.lower() for noise in ["love tldr", "advertise", "work at tldr", "apply here", "referral"]):
                 continue
             
@@ -111,7 +107,6 @@ def main():
         if not articles:
             continue
             
-        # FIX: Truncate ISO date to YYYY-MM-DD
         formatted_date = date_str[:10] if date_str else "Unknown Date"
         
         structured_data.append({
