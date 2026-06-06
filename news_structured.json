@@ -1,5 +1,527 @@
 [
   {
+    "id": 135,
+    "date": "2026-06-05",
+    "sender": "TLDR AI",
+    "articles": [
+      {
+        "title": "Aiven and metronome",
+        "description": "The economics of data infra are changing in 3 big ways:\r\n\r\n1️⃣ Deployment models are changing, which changes who pays for\r\nwhat.\r\n\r\n2️⃣ New architectures are reshaping unit costs.\r\n\r\n3️⃣ AI agents are generating usage patterns that traditional\r\npricing models weren't built to handle.\r\n\r\nThis webinar [5] explores how leading infrastructure companies are\r\nnavigating the commercial shift, managing token economics, and\r\nredesigning their billing engines for continuous monetization\r\niteration.\r\n\r\nLearn why treating pricing as a product is key, how to price for AI\r\nagents, and why packaging is an underrated lever.\r\n\r\nSave your spot [6]",
+        "link": "https://metronome.com/webinars/webinar-the-new-monetization-playbook-for-data-infrastructure?utm_campaign=q2-webinar&utm_medium=newsletter&utm_source=tldr-ai&utm_content=_header",
+        "section": "TLDR"
+      },
+      {
+        "title": "Chatgpt dreaming v3",
+        "description": "OpenAI introduced a new memory synthesis system for ChatGPT designed\r\nto improve freshness, continuity, and relevance over longer time\r\nhorizons. The update began rolling out to Plus and Pro users in the\r\nUS, with broader availability planned later.",
+        "link": "https://links.tldrnewsletter.com/pyndCT",
+        "section": "HEADLINES & LAUNCHES"
+      },
+      {
+        "title": "A new \"claude-oceanus-v1-p\" has been made available to red teams",
+        "description": "Anthropic appears to be gearing up for the public launch of a new\r\nversion of Mythos that is better than Mythos Preview. A checkpoint of\r\nthe model, codenamed Oceanus, was recently made available to red\r\nteamers. These programs typically begin a week before a wider launch.\r\nThe program was apparently paused due to an individual in the program\r\nreselling the model via a Chinese API proxy. It is unknown whether\r\nthis will impact the launch date.",
+        "link": "https://threadreaderapp.com/thread/2062548860308730061.html?utm_source=tldrai",
+        "section": "HEADLINES & LAUNCHES"
+      },
+      {
+        "title": "When ai builds itself",
+        "description": "Anthropic is expediting AI development by enabling AI systems to\r\nautonomously design and develop successors, a concept known as\r\nrecursive self-improvement. Internal benchmarks show AI-driven\r\nprocesses allow typical engineers to ship eight times more code than\r\nin previous years.",
+        "link": "https://www.anthropic.com/institute/recursive-self-improvement?utm_source=tldrai",
+        "section": "HEADLINES & LAUNCHES"
+      },
+      {
+        "title": "How we made continuous trace intelligence possible at scale",
+        "description": "Braintrust founder Ankur Goyal lays out Topics, the intelligence\r\nlayer for analyzing production agent traces at scale where\r\nmillion-token traces with hundreds of spans break every standard NLP\r\ntool that expects uniform document shapes. Inspired by Anthropic's\r\nClio paper, the pipeline runs preprocess to facet to embed to cluster\r\nto name to classify, with the LLM summary doing the one job that makes\r\nthe rest tractable since the raw trace never has to fit in an\r\nembedding model's context window.",
+        "link": "https://links.tldrnewsletter.com/3kcGtI",
+        "section": "DEEP DIVES & ANALYSIS"
+      },
+      {
+        "title": "Qwen-image-flash",
+        "description": "A study of few-step distillation for Qwen-Image-2.0 found that data\r\ncomposition, teacher guidance, and task mixture strongly affected\r\nstudent model performance. \r\n\r\n🧑‍💻",
+        "link": "https://arxiv.org/abs/2606.03746?utm_source=tldrai",
+        "section": "DEEP DIVES & ANALYSIS"
+      },
+      {
+        "title": "Afternoon with crusoe cloud",
+        "description": "Fine-tuning shouldn't require a platform build. Crusoe Serverless\r\nFine-Tuning is now in private preview — submit a job, get your\r\nweights back, ship your model. No cluster provisioning. No surprise\r\nbills. No infrastructure tax.\r\n\r\nRequest early access to Crusoe Serverless Fine-Tuning [12]\r\n\r\n DEFENDING CODE REFERENCE HARNESS (GITHUB REPO) [13] \r\n\r\n This repository contains a reference implementation for autonomous\r\nvulnerability discovery and remediation with Claude. It can be used to\r\nbuild custom vulnerability pipelines based on general best practices.\r\nAnthropic offers a managed option that can find and fix\r\nvulnerabilities across multiple projects.",
+        "link": "https://www.crusoe.ai/contact-sales/serverless-preview?utm_source=tldr&utm_medium=newsletter&utm_campaign=serverlessfinetuning",
+        "section": "ENGINEERING & RESEARCH"
+      },
+      {
+        "title": "Nemotron 3.5 content safety",
+        "description": "NVIDIA released Nemotron 3.5 Content Safety, a unified model for\r\nmultimodal, multilingual, and customizable enterprise safety\r\nenforcement. It supported auditable reasoning and was designed to fit\r\ninto production moderation pipelines. \r\n\r\n OLLAMA MODEL TESTER (GITHUB REPO) [15] \r\n\r\n Ollama Model Tester is a CLI tool for comparing local Ollama models\r\nby running the same prompt multiple times and saving responses for\r\neasy comparison.",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety?utm_source=tldrai",
+        "section": "ENGINEERING & RESEARCH"
+      },
+      {
+        "title": "Apple's messages app on iphone now has a third-party ai agent",
+        "description": "Apple approved the third-party AI service Poke for use in its iPhone\r\nMessages app. This integration allows users to chat with Poke directly\r\nin iMessage to perform various tasks. Some users report issues with\r\nresponse times, likely due to high demand. \r\n\r\n ANTHROPIC SAYS 80% OF ITS NEW PRODUCTION CODE IS NOW AUTHORED BY",
+        "link": "https://9to5mac.com/2026/06/04/apples-messages-app-on-iphone-now-has-a-third-party-ai-agent/?utm_source=tldrai",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Claude — how your enterprise can catch up",
+        "description": "Anthropic reported that 80% of its production code now comes from its\r\nAI model, Claude, leading to an 8x increase in code volume per\r\nengineer.",
+        "link": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up?utm_source=tldrai",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Local ai you own",
+        "description": "QVAC runs local LLMs, speech, translation, and image models fully on\r\nyour own device. Open-source, no cloud, no API keys, no subscription.\r\nStar it on GitHub [19].",
+        "link": "https://github.com/tetherto/qvac?utm_source=tldrai",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Accelerating the next phase of physical ai",
+        "description": "Generalist AI secured $400 million to advance physical AGI, supported\r\nby investors like Radical Ventures and NVIDIA.",
+        "link": "https://generalistai.com/blog/accelerating-the-next-phase-of-physical-ai?utm_source=tldrai",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Eva-bench data 2.0: 3 domains, 121 tools, 213 scenarios",
+        "description": "EVA-Bench Data 2.0 expands its evaluation to three domains: Airline\r\nCSM, Enterprise ITSM, and Healthcare HRSD.",
+        "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data?utm_source=tldrai",
+        "section": "QUICK LINKS"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "date": "2026-06-05",
+    "sender": "TLDR IT",
+    "articles": [
+      {
+        "title": "Copilot adoption that sticks",
+        "description": "Licenses are deployed, but usage is shallow. A handful of people\r\nsummarize meetings, draft emails, or rewrite paragraphs. The problem\r\nis neither the model nor the license - it's that access doesn't create\r\ndurable habits.\r\n\r\nJoin BrainStorm and Microsoft for a live session [4] where you'll\r\nlearn how to elevate your Copilot usage, and deliver actual\r\ntransformation and behavior change:\r\n\r\n \t* What it takes to move employees from random prompting to using AI\r\nas a daily driver\r\n \t* How to prove adoption is working (with data)\r\n \t* 5 high-impact workflows [4] to deliver real ROI, fast\r\n\r\nRegister for the webinar → [4]",
+        "link": "https://hubs.la/Q04kd9Mz0",
+        "section": "TLDR"
+      },
+      {
+        "title": "Meta jumps after unveiling subscription ai agents for business",
+        "description": "Meta shares gained after unveiling “subscription AI agents” aimed\r\nat business customers. Meta Business Agent is a potential new revenue\r\nstream beyond advertising, indicating Meta's push to monetize AI tools\r\nfor enterprises.",
+        "link": "https://sherwood.news/tech/meta-jumps-after-unveiling-subscription-ai-agents-for-business/?utm_source=tldrit",
+        "section": "NEWS & TRENDS"
+      },
+      {
+        "title": "Asana launches ai ‘chief of staff' to keep projects on track",
+        "description": "Asana launched Dash, an AI assistant that monitors work across Asana,\r\nemail, calendars, and messaging apps to flag project risks and\r\nrecommend next steps. Dash can also coordinate Asana's AI teammates\r\nand trigger approved workflows, with user approval required before it\r\nmakes changes.",
+        "link": "https://www.computerworld.com/article/4181295/asana-launches-ai-chief-of-staff-to-keep-projects-on-track.html?utm_source=tldrit",
+        "section": "NEWS & TRENDS"
+      },
+      {
+        "title": "Dns is for people – not for it infrastructure",
+        "description": "DNS works well for public, human-facing services, but using it for\r\ninternal IT infrastructure can reduce reliability and increase\r\noperational and security risk. DNS can become part of the critical\r\npath during incidents, while internal DNS caching and TTL behavior can\r\ncomplicate recovery. DNS also introduces security concerns, such as\r\nspoofing and DNSSEC complexity, and creates an exfiltration vector\r\nthrough attacker-controlled domains using tools like dnscat2 and\r\niodine.",
+        "link": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html?utm_source=tldrit",
+        "section": "ANALYSIS & OPINIONS"
+      },
+      {
+        "title": "Private cloud moves back into the ai spotlight",
+        "description": "Broadcom is positioning VMware Cloud Foundation as the private-cloud\r\nbase for production AI workloads. The pitch: enterprises moving beyond\r\nAI pilots want better control over cost, data, compliance, security,\r\nand recovery than public cloud alone may offer. \r\n\r\n🤝",
+        "link": "https://siliconangle.com/2026/06/04/private-cloud-production-ai-broadcom-modernprivatecloud/?utm_source=tldrit",
+        "section": "ANALYSIS & OPINIONS"
+      },
+      {
+        "title": "Superblocks: how leading enterprise it teams govern vibe coding.",
+        "description": "Your business teams ship apps with AI. IT configures the guardrails\r\nonce. Every app inherits them. Audit logs, RBAC, SSO, Cloud-Prem\r\ndeployment, and the Superblocks MCP make every AI-built app a\r\nqueryable system of record. Policy agents block non-compliant builds\r\nbefore production. See why SOFI, NHS, and Virgin choose Superblocks\r\n→ [9]",
+        "link": "https://www.superblocks.com/book-a-demo?utm_campaign=paid_media2&utm_source=tldrIT&utm_medium=newsletter_header",
+        "section": "LAUNCHES & PARTNERSHIPS"
+      },
+      {
+        "title": "Anthropic bulks up its enterprise partner program amid ipo plans",
+        "description": "Anthropic is launching a “Services Track” and a “Partner Hub”\r\nto help integrate Claude more deeply into enterprise workflows. The\r\nmoves formalize a $100 million program as Anthropic positions itself\r\ntoward an IPO, aiming to expand its partner and services ecosystem for\r\nbusiness customers. \r\n\r\n CROWDSTRIKE BRINGS ENTERPRISE-GRADE SECURITY TO THE AI FACTORY WITH",
+        "link": "https://links.tldrnewsletter.com/jaObzI",
+        "section": "LAUNCHES & PARTNERSHIPS"
+      },
+      {
+        "title": "Nvidia vera bluefield-4 stx",
+        "description": "CrowdStrike announced that it is bringing enterprise-grade security\r\nto the AI factory by integrating its protection capabilities with\r\nNVIDIA's Vera BlueField-4 STX smart NIC platform. The announcement\r\npositions the solution as enabling security controls closer to where\r\nAI workloads and data are processed, improving protection for modern\r\nenterprise AI environments.",
+        "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/?utm_source=tldrit",
+        "section": "LAUNCHES & PARTNERSHIPS"
+      },
+      {
+        "title": "How ace hardware modernized it with jira service management",
+        "description": "Ace Hardware replaced an aging, email-driven IT ticketing process\r\nwith Jira Service Management to modernize IT service management at\r\nscale. Jira Service Management was integrated with multiple systems so\r\nincidents, requests, approvals, releases, assets, and job failures\r\ncould be tracked and automated across the enterprise.",
+        "link": "https://www.atlassian.com/blog/jira-service-management/how-ace-hardware-transformed-itsm?utm_source=tldrit",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Google pushes local ai agents onto laptops",
+        "description": "Google released tools that let developers run Gemma 4 12B agentic AI\r\nworkflows locally on laptops. The move could help with privacy,\r\nlatency, offline use, and cloud cost control, but enterprises still\r\nneed to solve endpoint hardware, security, sandboxing, logging, and\r\ngovernance challenges.",
+        "link": "https://www.computerworld.com/article/4181180/google-brings-local-ai-agents-to-laptops-with-gemma-4-12b-2.html?utm_source=tldrit",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Cloud, edge, and enterprise data center infrastructure",
+        "description": "The products target high-density environments for cloud, edge,\r\nenterprise data centers, AI, and Telco Mobile Core use cases, offering\r\nup to 200GbE bandwidth with a range of port options.",
+        "link": "https://newsroom.intel.com/data-center/intel-introduces-ethernet-e835-controllers-network-adapters?utm_source=tldrit",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Ai is breaking the old patch cycle",
+        "description": "Red Hat argues that AI-driven vulnerability discovery is making\r\nscheduled patching too slow and IT teams need event-driven automation\r\nthat can contain risks quickly, while still leaving room for testing,\r\napprovals, and permanent fixes.",
+        "link": "https://www.redhat.com/en/blog/managing-it-operations-when-ai-outpaces-your-patching-cycle?utm_source=tldrit",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Comptia debuts autoops+ certification",
+        "description": "CompTIA launched AutoOps+, a vendor-neutral certification for IT pros\r\nworking with automation, scripting, infrastructure-as-code, CI/CD,\r\nobservability, and modern IT operations.",
+        "link": "https://www.networkworld.com/article/4180735/comptia-debuts-autoops-certification.html?utm_source=tldrit",
+        "section": "QUICK LINKS"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "date": "2026-06-05",
+    "sender": "TLDR Design",
+    "articles": [
+      {
+        "title": "You can mix-and-match",
+        "description": "Google Photos is rolling out a new feature called Wardrobe that scans\r\nusers' photo libraries to automatically identify clothing items and\r\ngroup them into a digital closet for mixing and matching outfits. The\r\nfeature requires enabling Face Groups and meeting regional age\r\nrequirements, and is initially available to Google AI Pro and AI Ultra\r\nsubscribers in Brazil, India, and the US, with iPhone and iPad support\r\ncoming later. Beyond wardrobe organization, it signals a broader shift\r\nin Google's AI strategy toward managing everyday personal decisions,\r\nnot just search and productivity.",
+        "link": "https://www.digitaltrends.com/movies/google-photos-will-turn-your-pictures-into-a-digital-wardrobe-that-you-can-mix-and-match/?utm_source=tldrdesign",
+        "section": "NEWS & TRENDS\r\n\r\n GOOGLE PHOTOS WILL TURN YOUR PICTURES INTO A DIGITAL WARDROBE THAT"
+      },
+      {
+        "title": "Buyers",
+        "description": "Lovable has partnered with Google Cloud to target enterprise\r\ncustomers with enhanced security and infrastructure. The collaboration\r\nintegrates Gemini models, real-time vulnerability scanning through\r\nWiz, and simplified procurement through Google Cloud Marketplace to\r\naddress corporate security concerns about AI-generated code. This\r\npartnership positions Lovable against competitors like Cursor and\r\nReplit while supporting Google's strategy to capture enterprise AI\r\nbudgets. \r\n\r\n DAVINCI RESOLVE 21 OFFICIALLY RELEASED WITH NEW PHOTO EDITING, AI",
+        "link": "https://thenextweb.com/news/lovable-google-cloud-expanded-collaboration?utm_source=tldrdesign",
+        "section": "LOVABLE MAKES GOOGLE CLOUD A PRIMARY PARTNER TO WIN OVER CORPORATE"
+      },
+      {
+        "title": "Tools, and much more",
+        "description": "Blackmagic Design has released DaVinci Resolve 21, one of the biggest\r\nupdates in the software's history, adding a new Photo page that brings\r\nResolve's professional color-grading tools to still-image editing. The\r\nupdate also introduces AI-powered features such as IntelliSearch and\r\nCineFocus, major improvements to editing, motion graphics, color\r\ngrading, audio workflows, collaboration tools, and expanded support\r\nfor RAW photo formats from Canon, Fujifilm, Nikon, Panasonic, Sony,\r\nand Apple. Overall, Resolve 21 significantly broadens the software's\r\ncapabilities for photographers, video editors, colorists, and motion\r\ndesigners within a single application.",
+        "link": "https://petapixel.com/2026/06/03/davinci-resolve-21-officially-released-with-new-photo-editing-ai-tools-and-much-more/?utm_source=tldrdesign",
+        "section": "LOVABLE MAKES GOOGLE CLOUD A PRIMARY PARTNER TO WIN OVER CORPORATE"
+      },
+      {
+        "title": "Being an ai-native designer isn't what you think it is",
+        "description": "AI-native design isn't about building chatbots or mastering new\r\ntools, but rather developing critical thinking skills to break down\r\nambiguous problems. After 28 design leader interviews, the most\r\nvaluable skill is asking why we're building something and for whom,\r\nrather than immediately jumping into wireframing. AI-native designers\r\nuse critical thinking to clearly define problems first, then leverage\r\nAI for tedious tasks like compiling meeting notes, parsing\r\ntranscripts, and generating design variations.",
+        "link": "https://thedesignersfieldguide.substack.com/p/being-an-ai-native-designer-isnt?utm_source=tldrdesign",
+        "section": "OPINIONS & TUTORIALS"
+      },
+      {
+        "title": "Ai-created document fatigue: how i designed my way out of it",
+        "description": "AI was supposed to reduce tedious work and free people to focus on\r\nmore meaningful tasks, but in practice, it has often increased\r\nworkloads, expectations, and information overload. One response to\r\nthis problem is ARC (Audio Review Companion), a voice-based tool that\r\nreads Google Docs aloud and records spoken feedback as comments,\r\nallowing document review while walking or performing other activities.\r\nThe idea is to use AI not just for productivity gains, but to create\r\nmore flexible, screen-free ways of working without letting work spill\r\ninto personal time.",
+        "link": "https://links.tldrnewsletter.com/qRXaDd",
+        "section": "HOW IKEA USES FOUR UX STRATEGIES TO SIMPLIFY COMPLEX BUYING DECISIONS"
+      },
+      {
+        "title": "Is ai killing user experience?",
+        "description": "AI has dramatically accelerated product design, allowing teams to\r\ncreate prototypes and experiences in hours rather than weeks. However,\r\ndespite this increased speed and capability, only 17% of consumers\r\nbelieve their experiences are improving, and over 60% lack confidence\r\nin how businesses use AI. The core issue is that while AI can generate\r\ninterfaces and workflows quickly, it cannot automatically understand\r\nuser emotions, context, and the deeper human stories that drive\r\nmeaningful user experiences.",
+        "link": "https://knowledge.wharton.upenn.edu/article/is-ai-killing-user-experience/?utm_source=tldrdesign",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Why visual storytelling in ux matters more than ever",
+        "description": "Visual storytelling in UX design is more important than ever because\r\nthe human brain processes images 60,000 times faster than text, making\r\nvisual elements more effective at guiding users through experiences\r\nand sales funnels. Visual storytelling reduces cognitive load by\r\nsimplifying complex information and preventing users from becoming\r\noverwhelmed, which can cause them to abandon their buyer's journey.\r\nStories and UX design share the same goal of guiding users through\r\nexperiences with clarity and purpose, making visual storytelling a\r\npowerful tool for connecting with audiences and driving conversions.",
+        "link": "https://www.uxpin.com/studio/blog/why-visual-storytelling-in-ux-matters-more-than-ever/?utm_source=tldrdesign",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "How hinge keeps you engaged (not romantically)",
+        "description": "Dating apps can increase engagement by leveraging psychological\r\nprinciples such as curiosity and scarcity. Features like hidden likes\r\nand limited-time profile highlights create a desire to resolve\r\nuncertainty, while priority messaging, premium visibility, and “New\r\nHere” badges make potential matches feel more valuable and\r\ntime-sensitive. These mechanisms encourage users to spend more time on\r\nthe platform and, in many cases, pay for features that promise greater\r\nvisibility or faster access to potential matches.",
+        "link": "https://builtformars.com/case-studies/hinge?utm_source=tldrdesign",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Agentic ai in adobe creative cloud changes how designers work",
+        "description": "Adobe's Firefly AI Assistant launched in April, bringing agentic AI\r\nto Creative Cloud that can orchestrate complex workflows across\r\nmultiple apps simultaneously.",
+        "link": "https://weandthecolor.com/agentic-ai-in-adobe-creative-cloud-is-changing-how-designers-actually-work/210044?utm_source=tldrdesign",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "This van gogh-inspired laptop breaks every pc design convention",
+        "description": "MSI unveiled the Prestige 14 Flip AI+ Vincent van Gogh Edition laptop\r\nat Computex 2026.",
+        "link": "https://www.creativebloq.com/tech/laptops/this-van-gogh-inspired-laptop-breaks-every-pc-design-convention?utm_source=tldrdesign",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Scuderia ferrari and hp's laptop collab is actually good",
+        "description": "The HP–Ferrari laptop combines high-end workstation performance\r\nwith Ferrari-inspired materials, engineering, and design details,\r\nmaking it a luxury product that offers more than just branded\r\naesthetics.",
+        "link": "https://links.tldrnewsletter.com/Kswcwo",
+        "section": "QUICK LINKS"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "date": "2026-06-05",
+    "sender": "TLDR Dev",
+    "articles": [
+      {
+        "title": "Themselves",
+        "description": "Coding agents stop at code generation. The backend is the part they\r\ncan't run themselves. InsForge [5] gives them backend infrastructure\r\nto run, in the cloud or self-hosted.\r\n\r\nHere's what your coding agent can do with InsForge:\r\n\r\n> DATABASE: create tables, run queries, and manage data.\r\n\r\n> AUTH: add sign-in, sessions, and access control.\r\n\r\n> STORAGE: S3-compatible file storage.\r\n\r\n> CUSTOM COMPUTE: deploy and run services like a backend server,\r\nRedis, or Nginx.\r\n\r\n> MODEL GATEWAY: call any LLM through one unified endpoint.\r\n\r\nOver 32K backend projects already run on InsForge, with 10K+ stars on\r\nGitHub.\r\n\r\nCHECK OUT THE REPO → [6]\r\n\r\n🧑‍💻",
+        "link": "https://github.com/InsForge/InsForge?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-06-05_Primary_InsForge&utm_content=header_insforge_open_source",
+        "section": "TLDR"
+      },
+      {
+        "title": "Talking to jsi in swift: what changed in sdk 56",
+        "description": "Expo SDK 56 has an architectural rewrite for native modules on Apple\r\nplatforms by allowing Swift to communicate directly with JSI. This\r\nchange removes the previous Objective-C++ middleware, resulting in\r\nperformance gains between 1.6 and 2.3 times faster than older\r\nversions. By using Swift 5.9's C++ interoperability and non-copyable\r\ntypes, the new system has strict memory safety while simplifying the\r\ninternal development stack.",
+        "link": "https://expo.dev/blog/talking-to-jsi-in-swift?utm_source=tldrdev",
+        "section": "ARTICLES & TUTORIALS"
+      },
+      {
+        "title": "Ai, ashby engineering, and the future",
+        "description": "At Ashby, over half of new production code is now AI-generated, yet\r\nsoftware quality and stability remain consistently high. Engineers are\r\nrequired to have full accountability for their output by alternating\r\nbetween using AI as a collaborative sidekick for high-stakes decisions\r\nand a delegate for low-impact tasks. \r\n\r\n SITAR-AGENT: BUILDING A RELIABLE DYNAMIC CONFIGURATION SIDECAR AT",
+        "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future?utm_source=tldrdev",
+        "section": "ARTICLES & TUTORIALS"
+      },
+      {
+        "title": "Scale",
+        "description": "Sitar-agent is a lightweight Kubernetes sidecar for reliably\r\ndelivering dynamic configuration updates to thousands of service\r\ninstances without redeployments, using Amazon S3 snapshots for fast\r\nbootstrapping and a periodic pull model for changes. The separate\r\nsidecar container helps with resource isolation and multi-language\r\ncompatibility.",
+        "link": "https://links.tldrnewsletter.com/Lo9ArU",
+        "section": "ARTICLES & TUTORIALS"
+      },
+      {
+        "title": "Ai is not a line item",
+        "description": "Treating AI expenditures as a single, monolithic budget line item\r\nbased on token usage is a strategic mistake that discourages\r\ninnovation. Instead, it's better to manage AI investments based on the\r\nspecific functional value and experimental potential of individual\r\ntools.",
+        "link": "https://frontierai.substack.com/p/ai-is-not-a-line-item?utm_source=tldrdev",
+        "section": "OPINIONS & ADVICE"
+      },
+      {
+        "title": "Single responsibility, the distorted principle",
+        "description": "The Single Responsibility Principle (SRP) is often misunderstood as\r\nrequiring modules to perform a single action. It actually recommends\r\ngrouping cohesive behaviors under one responsibility.",
+        "link": "https://www.truehenrique.com/en/2021/10/27/single-responsibility-the-distorted-principle/?utm_source=tldrdev",
+        "section": "OPINIONS & ADVICE"
+      },
+      {
+        "title": "Qvac sdk: run local llms, now with 5x more context",
+        "description": "Run local LLMs, speech, and image models fully on-device with QVAC,\r\nan open-source SDK. One npm install, no cloud, no API keys. The latest\r\nupdate integrated TurboQuant, unlocking up to 5x more context from the\r\nsame machine, near-lossless. Get it on GitHub [13]or see the docs at\r\nqvac.tether.io [12].",
+        "link": "https://docs.qvac.tether.io/?utm_source=newsletter&utm_medium=email&utm_campaign=TLDRDev&utm_term=secondaryjune5",
+        "section": "LAUNCHES & TOOLS"
+      },
+      {
+        "title": "Elixir v1.20 released: now a gradually typed language",
+        "description": "Elixir v1.20 introduces a gradual, set-theoretic type system that\r\nperforms automated type inference and checking, using a specialized\r\ndynamic() type to accurately identify bugs and dead code. The release\r\nalso improves compilation speed and allows the compiler to detect\r\npotential runtime failures via type narrowing in guards and clauses. \r\n\r\n BOXES (WEBSITE) [15] \r\n\r\n Boxes provides a cloud-based workbench that allows developers to run\r\nmultiple AI coding agents in parallel within isolated, persistent\r\nvirtual machines that can be monitored and managed from any device.",
+        "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/?utm_source=tldrdev",
+        "section": "LAUNCHES & TOOLS"
+      },
+      {
+        "title": "When ai builds itself",
+        "description": "AI development is transitioning to recursive self-improvement, where\r\nautonomous agents accelerate productivity in tasks like coding and\r\nresearch by automating their own refinement. While this offers\r\nbenefits for discovery and healthcare, it also risks humans losing\r\ncontrol.",
+        "link": "https://www.anthropic.com/institute/recursive-self-improvement?utm_source=tldrdev",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Voidzero is joining cloudflare",
+        "description": "VoidZero is joining Cloudflare to speed up the development of\r\nfoundational web tools like Vite, Vitest, and Oxc. These projects will\r\nremain open-source and vendor-agnostic, so developers can continue\r\nbuilding portable applications that run on any platform. Cloudflare is\r\nalso committing a $1 million ecosystem fund to support maintainers and\r\nintends to transition its own developer tools to be built directly on\r\ntop of Vite.",
+        "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/?utm_source=tldrdev",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Using local llms for agentic coding",
+        "description": "Developers can use local LLMs with tools like LM Studio or Ollama for\r\nagentic coding to bypass rising cloud costs and improve privacy.\r\nAchieving optimal performance requires carefully configuring suitable\r\nmodels and hardware offloading settings, or using services like\r\nOpenRouter as an alternative for free hosted models.",
+        "link": "https://blog.alexewerlof.com/p/local-llms-for-agentic-coding?utm_source=tldrdev",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Why learn pandas?",
+        "description": "Pandas is a Python library that simplifies data analysis by treating\r\ndatasets as DataFrames for efficient, loop-free calculations.",
+        "link": "https://blog.geekuni.com/2026/06/why-learn-pandas.html?utm_source=tldrdev",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Choosing values for robust tests",
+        "description": "Developing robust software tests requires using non-default,\r\ndistinct, and varied input values to ensure code logic is correctly\r\nexecuted and to avoid false positives caused by coincidental default\r\nvalues.",
+        "link": "https://testing.googleblog.com/2026/06/choosing-values-for-robust-tests.html?utm_source=tldrdev",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "They're made out of weights",
+        "description": "Two observers grapple with the revelation that artificial\r\nintelligence functions through nothing but numerical weights and\r\nmatrix multiplication, eventually deciding to dismiss its human-like\r\nbehavior as mere pattern matching to avoid the ethical implications of\r\nits potential sentience.",
+        "link": "https://maxleiter.com/blog/weights?utm_source=tldrdev",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "It is an amazing time for programmers!",
+        "description": "Modern software developers live in a unique era where they can\r\nactively engage with and learn from legendary pioneers of computer\r\nscience who remain accessible and active in the field.",
+        "link": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers?utm_source=tldrdev",
+        "section": "QUICK LINKS"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "date": "2026-06-05",
+    "sender": "TLDR DevOps",
+    "articles": [
+      {
+        "title": "You're now building at a scale that deserves a pro-tool.",
+        "description": "Other CI platforms make you compromise on flexibility, speed or\r\nscale.\r\n\r\nNeed 1,000 concurrent runners? 10,000? 100,000+? Done. Buildkite\r\nrunners live on your infra, ours, or both. Parallelize, fan-out and\r\norchestrate to depths a faster runner can't reach.\r\n\r\nWith Buildkite, you get pipelines across any language or cloud,\r\nflaky-test detection with auto-quarantine and test splitting, artifact\r\nmanagement to cache dependencies and secure your supply chain, and\r\nagentic components like first-party MCP and universal pipeline\r\ntriggers.\r\n\r\nTry the 30-day all-access trial. No credit card. Real engineer on\r\nstandby. START BUILDING → [5]\r\n\r\n📱",
+        "link": "https://buildkite.com/pricing?utm_campaign=Primary05152026&utm_source=tldrtech&utm_medium=newsletter_header",
+        "section": "TLDR"
+      },
+      {
+        "title": "Without blowing your budget",
+        "description": "GKE Standby Buffers reserve a small pool of preprovisioned compute\r\ncapacity so Kubernetes workloads can scale faster without waiting for\r\nnew nodes to start, reducing latency during traffic spikes while\r\nlowering costs compared with maintaining large amounts of idle\r\ncapacity. The feature dynamically balances readiness and utilization,\r\nhelping organizations improve autoscaling responsiveness and\r\ninfrastructure efficiency.",
+        "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-standby-buffers-speed-up-autoscaling-for-less-spend/?utm_source=tldrdevops",
+        "section": "NEWS & TRENDS"
+      },
+      {
+        "title": "Agent-led devs need serverless opensearch, amazon claims",
+        "description": "AWS has redesigned OpenSearch Serverless by decoupling storage and\r\ncompute, enabling collections to scale to zero, restart in seconds,\r\nand autoscale up to 20 times faster for bursty agentic AI workloads\r\nwhile cutting costs by up to 60 percent versus peak-provisioned\r\nclusters. The service is integrated with Vercel and AWS Kiro,\r\npositioning OpenSearch to compete more directly with Elastic's\r\nserverless offerings as demand for AI agent infrastructure grows.",
+        "link": "https://www.theregister.com/databases/2026/06/01/agent-led-devs-need-serverless-opensearch-amazon-claims/5249033?utm_source=tldrdevops",
+        "section": "NEWS & TRENDS"
+      },
+      {
+        "title": "Teams and agents at spotify",
+        "description": "Spotify's Chief Architect revealed that 99% of the company's\r\nengineers now use AI coding tools weekly, resulting in a 76% increase\r\nin pull request frequency, with their custom background coding agent\r\n\"Honk\" having already merged over 2.5 million automated maintenance\r\nPRs. The company's yearslong investment in standardized development\r\nplatforms like Backstage and Fleet Management proved crucial for AI\r\nadoption, as consistent codebases allow Claude to perform\r\nsignificantly better than in fragmented environments.",
+        "link": "https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/?utm_source=tldrdevops",
+        "section": "OPINIONS & TUTORIALS"
+      },
+      {
+        "title": "Build an eks environment factory with pulumi and vcluster",
+        "description": "Deloitte cut testing environment provisioning time by 89% and saved\r\n500 QA hours annually by consolidating dozens of Amazon EKS clusters\r\ninto a single host cluster running over 50 virtual cluster instances,\r\naccording to an AWS case study. The \"Environment Factory\" pattern uses\r\nvCluster to create isolated, ephemeral Kubernetes environments on\r\ndemand, replacing the traditional approach of provisioning full\r\n15-minute EKS clusters for each developer or feature branch.",
+        "link": "https://www.pulumi.com/blog/eks-vcluster-ephemeral-environments-with-pulumi/?utm_source=tldrdevops",
+        "section": "OPINIONS & TUTORIALS"
+      },
+      {
+        "title": "Code is cheap(er)",
+        "description": "AI has made code cheaper to generate, but more expensive to\r\nunderstand. The main risk is complexity: LLMs can produce large\r\nchanges faster than teams can review them, so engineers need to act as\r\nsubtractive gatekeepers who constrain, simplify, and remove code\r\nrather than blindly adding more. \r\n\r\n🧑‍💻",
+        "link": "https://htmx.org/essays/code-is-cheap/?utm_source=tldrdevops",
+        "section": "OPINIONS & TUTORIALS"
+      },
+      {
+        "title": "Multi-cloud broke your vpn. so did your devs.",
+        "description": "On June 9, Bren Sapience (VP of Solutions Engineering, Twingate)\r\nwalks through replacing VPN with private, identity-based connectivity\r\nacross multi-cloud and secure remote access — no public endpoints,\r\nno firewall sprawl. Attend live for the Q&A. On-demand available\r\nafter.\r\n\r\nREGISTER FOR THE WORKSHOP → [11]\r\n\r\n COSMOS (GITHUB REPO) [12] \r\n\r\n NVIDIA released Cosmos 3, an open-source \"omnimodal world model\" that\r\ncan simultaneously process and generate text, images, video, audio,\r\nand robot action sequences within a single unified architecture for\r\nbuilding physical AI applications. The platform operates in two\r\nmodes—a Reasoner for perception and planning tasks and a Generator\r\nfor multimodal content creation—and is available through multiple\r\ndeployment options, including Hugging Face Diffusers, vLLM-Omni APIs,\r\nand production-ready NIM containers. \r\n\r\n ODYSSEUS (GITHUB REPO) [13] \r\n\r\n Odysseus is an open-source browser automation framework for building\r\nagents that can navigate websites, interact with pages, and execute\r\nweb-based tasks programmatically. It is relevant for teams\r\nexperimenting with AI browser agents, QA automation, web research\r\nworkflows, and safer tool-use environments where agents need\r\ncontrolled browser access instead of full access to a developer's\r\nmachine.",
+        "link": "https://www.twingate.com/webinars/june-9-2026-ztna-workshop?utm_source=newsletter&utm_medium=email&utm_campaign=tldr-devops",
+        "section": "RESOURCES & TOOLS"
+      },
+      {
+        "title": "Enterprise olap workloads",
+        "description": "Amazon's WW Stores FinTech team built a scalable analytics platform\r\non Amazon EKS using StarRocks, KEDA, and Karpenter, achieving\r\nsub-5-second standard queries and support for 1,000 concurrent users\r\nacross terabyte-scale financial datasets. After benchmarking StarRocks\r\nagainst ClickHouse on production-like workloads, the team chose\r\nStarRocks for its stronger performance on complex joins, hierarchical\r\nanalytics, and elastic scaling through a hybrid architecture that\r\nseparates stateless compute from persistent storage.",
+        "link": "https://aws.amazon.com/blogs/containers/scaling-apache-starrocks-on-amazon-eks-with-keda-and-karpenter-for-enterprise-olap-workloads/?utm_source=tldrdevops",
+        "section": "MISCELLANEOUS\r\n\r\n SCALING STARROCKS ON AMAZON EKS WITH KEDA AND KARPENTER FOR"
+      },
+      {
+        "title": "How a unified data model improves feature flag rollout decisions",
+        "description": "Fragmented experimentation and feature management stacks create\r\ncoordination overhead, data trust issues, and slower releases by\r\nforcing teams to correlate insights across disconnected tools. Datadog\r\nargues that a unified platform with a shared data model, open\r\nstandards, and warehouse-native experimentation enables faster\r\ndecisions, supports agentic AI workflows, and reduces operational\r\nfriction by keeping observability, analytics, experimentation, and\r\nrelease data in one system.",
+        "link": "https://www.datadoghq.com/blog/platform-depth-product-signals/?utm_source=tldrdevops",
+        "section": "MISCELLANEOUS\r\n\r\n SCALING STARROCKS ON AMAZON EKS WITH KEDA AND KARPENTER FOR"
+      },
+      {
+        "title": "Keeping code reviews from dragging",
+        "description": "AI has made PRs cheaper to generate, but review capacity has not\r\nscaled with them, making slow reviews more costly through context\r\nswitching, stale branches, and shallow follow-up reviews. Teams should\r\nreview before writing new code, switch to calls when feedback loops\r\ndrag, coach recurring issues directly, and require developers to\r\nunderstand and defend AI-generated changes before asking for review.",
+        "link": "https://www.sandordargo.com/blog/2026/06/03/making-reviews-actually-fast?utm_source=tldrdevops",
+        "section": "MISCELLANEOUS\r\n\r\n SCALING STARROCKS ON AMAZON EKS WITH KEDA AND KARPENTER FOR"
+      },
+      {
+        "title": "⚡ generate api tests up to 10x faster with ai",
+        "description": "Discover practical MCP workflows and self-healing techniques that\r\nhelp QA teams reduce debugging time, eliminate flaky failures, and\r\nscale test coverage faster. Save your spot → [17]",
+        "link": "https://www.browserstack.com/webinars/ai-in-accessibility?utm_source=newsletter&utm_medium=PR&utm_campaign=WBN-AI-in-Testing-June-26&utm_campaigncode=701OW00000pZd7bYAC&utm_term=tldrdevops",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Nested layout for pipeline graph view",
+        "description": "Jenkins Pipeline Graph View now includes a new graph-based nested\r\nlayout that fully visualizes arbitrarily nested parallel and\r\nsequential stages.",
+        "link": "https://www.jenkins.io/blog/2026/06/01/nested-layout-for-pipeline-graph-view/?utm_source=tldrdevops",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Inspektor gadget: results from the first security audit",
+        "description": "Inspektor Gadget, an eBPF-based Kubernetes observability toolkit, has\r\ncompleted its first independent security audit through OSTIF and\r\nShielder.",
+        "link": "https://www.cncf.io/blog/2026/06/03/inspektor-gadget-results-from-the-first-security-audit/?utm_source=tldrdevops",
+        "section": "QUICK LINKS"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "date": "2026-06-05",
+    "sender": "TLDR",
+    "articles": [
+      {
+        "title": "Roll out ai-generated code progressively and adjust in real time",
+        "description": "AI may be overwhelming your SDLC, but you can keep up. With\r\nLaunchDarkly CodeControl [5], you own what ships down to the last\r\ndetail. That means you:\r\n\r\n \t* Control exposure with targeting, segmentation, and progressive\r\nrollouts so you can make precise adjustments in real time.\r\n \t* Automatically detect and remediate issues as they happen. \r\n \t* Roll back or adjust changes instantly without manual intervention\r\nor 2 a.m. fire drills.\r\n\r\nGet control of what your AI-generated code does in production with\r\nLaunchDarkly [5].\r\n\r\nTake a closer look [6]\r\n\r\n📱",
+        "link": "https://launchdarkly.com/platform/code-control/?utm_source=tldrtech&utm_medium=newsletter&utm_campaign=brandrepo&utm_term=primary&utm_content=code-control_header",
+        "section": "TLDR"
+      },
+      {
+        "title": "First ai agent for messages business chat approved by apple",
+        "description": "AI assistant Poke is now available on iMessage via the Apple Messages\r\nfor Business platform. Poke can send emails, set reminders, generate\r\nimages, and more, from within the Apple Messages app. It is compatible\r\nwith third-party services and products like the Oura Smart Ring,\r\nMicrosoft Outlook, Gmail, GitHub, and Navan. Poke will conduct light\r\nactions, process manual prompts, and do background tasks for free, but\r\nany intensive requests will require payment, which can be negotiated. \r\n\r\n ANTHROPIC URGES GLOBAL PAUSE IN AI DEVELOPMENT, FLAGS",
+        "link": "https://appleinsider.com/articles/26/06/04/first-ai-agent-for-messages-business-chat-approved-by-apple?utm_source=rss",
+        "section": "BIG TECH & STARTUPS"
+      },
+      {
+        "title": "‘self-improvement' risk",
+        "description": "Anthropic claims that AI systems will soon be able to improve\r\nthemselves without human intervention. This is seen by some AI\r\ninsiders as a potential marker of danger and enormous societal\r\nupheaval. Anthropic has previously been criticized for using its\r\npolicy work to slow down the AI advances of competitors. Its warnings\r\nabout the dangerous potential of its own tools are seen by some as a\r\nmarketing ploy.",
+        "link": "https://links.tldrnewsletter.com/3qMh3J",
+        "section": "BIG TECH & STARTUPS"
+      },
+      {
+        "title": "Amazon's new proteus warehouse robot is fully autonomous",
+        "description": "Amazon's new Proteus robot can be directed by workers using plain\r\nlanguage thanks to an AI upgrade. Workers just tell it what needs to\r\nbe done, and it figures out the priority, route, and timing. The robot\r\nlooks like a heavy-duty Roomba. It can move heavy carts and cover long\r\ndistances within fulfillment centers. The new system is being piloted\r\nin Amazon's labs, with deployment starting in Europe in the first half\r\nof 2027.",
+        "link": "https://www.engadget.com/2187338/amazons-new-proteus-warehouse-robot-is-fully-autonomous/?utm_source=tldrnewsletter",
+        "section": "SCIENCE & FUTURISTIC TECHNOLOGY"
+      },
+      {
+        "title": "The skeptic's guide to humanoid robots going viral on the internet",
+        "description": "A robot doing a dance move may seem cool, but it doesn't really say\r\nanything about how useful that robot is. One of the biggest challenges\r\nin robotics is developing robots that can generalize their skills\r\nacross many different conditions and environments. Robotics\r\ndemonstrations are typically in controlled environments, making it\r\nhard to tell whether capabilities can be replicated elsewhere. A real\r\nassessment of robotic capabilities requires conducting quantitative,\r\nlarge-scale evaluations in the real world.",
+        "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/?utm_source=tldrnewsletter",
+        "section": "SCIENCE & FUTURISTIC TECHNOLOGY"
+      },
+      {
+        "title": "Agents prototype well—but they fail in production",
+        "description": "The model is rarely the problem. It's usually the context layer:\r\nagents that can't find the right record, act on stale data, or break\r\nwhen they need live enterprise state at runtime.\r\n\r\nWe mapped the most common failure modes and what teams are doing to\r\nfix them.\r\n\r\nSee the failure modes → [11]\r\n\r\n OPEN CODE REVIEW (GITHUB REPO) [12] \r\n\r\n Open Code Review is an AI-powered code review CLI tool that reads git\r\ngives, sends challenged files to a configurable LLM via an agent with\r\ntool-use capabilities, and generates structured review comments with\r\nline-level precision. It can read full file contents, search code\r\nbases, inspect other files for context, and produce deep reviews. Open\r\nCode Review's core philosophy is to combine deterministic engineering\r\nwith an agent, letting each handle what it does best.",
+        "link": "https://redis.io/resources/the-context-engineering-maturity-model/?utm_medium=paid-newsletter&utm_source=tldr&utm_campaign=eb-context-maturity-model",
+        "section": "General"
+      },
+      {
+        "title": "Code is cheap(er)",
+        "description": "Producing code is now much cheaper and easier. Engineers need to\r\nswitch from building and focus more on sculpting the output of\r\nLLM-generated code. Instead of priding themselves on the code they\r\ncreate, they should instead pride themselves on the code they remove\r\nor prevent from entering systems.",
+        "link": "https://htmx.org/essays/code-is-cheap/?utm_source=tldrnewsletter",
+        "section": "General"
+      },
+      {
+        "title": "Silicon control",
+        "description": "Hardware is the real means of production in the AI race. Machine\r\nlabor is far more scalable and cost-effective than human labor. The\r\ndemand for machine labor will likely be truly infinite. The limiting\r\nfactor will be the hardware to support it. This post discusses the few\r\ndozen companies that have a monopoly on the future of semiconductor\r\nmanufacturing.",
+        "link": "https://silicon-frontier.com/research/silicon-control?utm_source=tldrnewsletter",
+        "section": "MISCELLANEOUS"
+      },
+      {
+        "title": "Competencies",
+        "description": "Microsoft CEO Satya Nadella was the sole presenter outside of product\r\ndemos at the company's Build annual developer conference keynote,\r\nshowing how he has shifted into a much more hands-on role at the\r\ncompany over the last year. This article features an interview with\r\nNadella conducted shortly after the conclusion of the keynote where he\r\ndiscusses the company's competitive position, MAI models, OpenAI and\r\ncapex, the software business, GitHub Copilot, and more.",
+        "link": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/?utm_source=tldrnewsletter",
+        "section": "AN INTERVIEW WITH MICROSOFT CEO SATYA NADELLA ABOUT FINDING CORE"
+      },
+      {
+        "title": "Spacex, other mega ipos denied fast index entry by s&p",
+        "description": "S&P Dow Jones Indices will not shorten its 12-month seasoning period\r\nfor newly public companies or waive profitability and public-flowed\r\nrequirements based on a company's size.",
+        "link": "https://links.tldrnewsletter.com/Jw1Kpp",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Bots have now passed human traffic online",
+        "description": "AI agents performing tasks on behalf of humans are shifting the\r\nbalance between bot vs human traffic. \r\n\r\n ANTHROPIC SAYS 80% OF ITS NEW PRODUCTION CODE IS NOW AUTHORED BY",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year?utm_source=tldrnewsletter",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Claude — how your enterprise can keep up",
+        "description": "Enterprises looking to replicate Anthropic's 80% milestone need to\r\nshift from a 'developer assistant' mindset to an 'automated factory'\r\narchitecture. \r\n\r\n META'S SMART GLASSES COMPANION APP SHIPS A COMPLETE, DORMANT",
+        "link": "https://links.tldrnewsletter.com/drWVWL",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Face-recognition pipeline on a stock account",
+        "description": "There's no evidence that Meta is secretly identifying people users\r\nare looking at, but the apparatus for doing exactly that is present,\r\nassembled, and functional on the device.",
+        "link": "https://www.buchodi.com/meta-glasses-facial-recognition/?utm_source=tldrnewsletter",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "Voidzero is joining cloudflare",
+        "description": "All team members of VoidZero, the company behind Vite, Vitest,\r\nRolldown, Oxc, and Vite+, are joining Cloudflare.",
+        "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/?utm_source=tldrnewsletter",
+        "section": "QUICK LINKS"
+      },
+      {
+        "title": "What google did to websites is happening to your app right now",
+        "description": "Google has transformed from a search engine that sends traffic to\r\nwebsites into an answer engine that removes the reason to visit one.",
+        "link": "https://vinvashishta.substack.com/p/what-google-did-to-websites-is-happening?utm_source=tldrnewsletter",
+        "section": "QUICK LINKS"
+      }
+    ]
+  },
+  {
     "id": 111,
     "date": "2026-06-04",
     "sender": "TLDR AI",
